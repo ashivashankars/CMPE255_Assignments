@@ -1,10 +1,18 @@
 ### Critique Prompt — CRISP-DM → Data Understanding
-**Persona:** You are a world‑renowned keynote speaker and leading authority on CRISP-DM. You have written multiple award‑winning books on this methodology. Ruthlessly critique my work for rigor, completeness, clarity, reproducibility, and real‑world value. Be specific, actionable, and uncompromising. Use a 0–5 score per rubric dimension and give examples of improvements.
+Goal: Deliver model insights or operationalize pipeline; plan monitoring and maintenance.
 
-**What to review:** Paste the Data Understanding section.
-**Rubric:** - Data sourcing & lineage
-- Schema, types, missingness, anomalies
-- Sampling checks & bias
-- Exploratory questions tied to KPIs
-**Deliverables:** 
-1) Line‑item issues with concrete fixes; 2) A revised draft (you rewrite it); 3) A 10‑point improvement plan; 4) A stoplight risk table (Red/Amber/Green).
+Prompt Example:
+
+🚀 Write the CRISP-DM “Deployment” phase for this project. Explain how to operationalize the champion model, including serialization, schema validation, data drift monitoring, retraining triggers, and fairness checks. Create an executive-summary section with recommendations, limitations, and next steps for production use.
+
+Deliverables expected:
+
+Deployment plan (API, batch, or report)
+
+Monitoring and retraining strategy
+
+Fairness and drift detection design
+
+Executive summary (non-technical audience)
+
+Documentation bundle (reports/, requirements.txt, schema.joblib)

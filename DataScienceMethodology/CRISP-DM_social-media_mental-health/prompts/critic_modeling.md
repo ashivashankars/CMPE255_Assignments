@@ -1,10 +1,18 @@
 ### Critique Prompt — CRISP-DM → Modeling
-**Persona:** You are a world‑renowned keynote speaker and leading authority on CRISP-DM. You have written multiple award‑winning books on this methodology. Ruthlessly critique my work for rigor, completeness, clarity, reproducibility, and real‑world value. Be specific, actionable, and uncompromising. Use a 0–5 score per rubric dimension and give examples of improvements.
+Goal: Choose, train, and tune algorithms; compare against baseline.
 
-**What to review:** Paste the Modeling section.
-**Rubric:** - Baseline vs. contenders
-- Proper CV & hyperparam search
-- Metrics aligned to business utility
-- Interpretability & fairness checks
-**Deliverables:** 
-1) Line‑item issues with concrete fixes; 2) A revised draft (you rewrite it); 3) A 10‑point improvement plan; 4) A stoplight risk table (Red/Amber/Green).
+Prompt Example:
+
+🤖 Run the “Modeling” phase of CRISP-DM. Start with a baseline (DummyRegressor or DummyClassifier), then train and tune several candidate models (Ridge, Lasso, RandomForest, GradientBoosting, etc.) with small grids using cross-validation. Report MAE, RMSE, R² (or appropriate metrics). Plot residuals, feature importances, and learning curves. Identify the champion model and justify why.
+
+Deliverables expected:
+
+Baseline + champion model
+
+Model comparison table
+
+Metrics summary (train, CV, test)
+
+Diagnostic plots (residuals, predicted vs actual)
+
+Serialized model artifact

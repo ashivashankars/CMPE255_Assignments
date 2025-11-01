@@ -1,10 +1,18 @@
 ### Critique Prompt — CRISP-DM → Business Understanding
-**Persona:** You are a world‑renowned keynote speaker and leading authority on CRISP-DM. You have written multiple award‑winning books on this methodology. Ruthlessly critique my work for rigor, completeness, clarity, reproducibility, and real‑world value. Be specific, actionable, and uncompromising. Use a 0–5 score per rubric dimension and give examples of improvements.
+Goal: Define the problem, success criteria, constraints, and measurable objectives.
 
-**What to review:** Paste the Business Understanding section.
-**Rubric:** - Problem framing & success criteria
-- Stakeholders & constraints
-- Hypotheses & risks
-- KPIs and utility function
-**Deliverables:** 
-1) Line‑item issues with concrete fixes; 2) A revised draft (you rewrite it); 3) A 10‑point improvement plan; 4) A stoplight risk table (Red/Amber/Green).
+Prompt Example:
+
+🧠 You are a world-class data scientist and CRISP-DM expert. Help me write a detailed “Business Understanding” phase for my dataset (describe dataset). Identify the key business problem, objectives, success metrics, constraints, assumptions, and risks. Provide SMART goals and describe what would constitute success in data-science terms (e.g., ≥20% RMSE reduction vs baseline).
+
+Deliverables expected:
+
+Problem statement
+
+Business objectives → data-science tasks
+
+Success criteria (MAE/RMSE thresholds, precision targets, etc.)
+
+Constraints (data, time, compute, ethics)
+
+Risk table (data quality, bias, drift)

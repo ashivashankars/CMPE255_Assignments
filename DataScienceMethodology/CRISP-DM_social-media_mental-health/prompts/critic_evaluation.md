@@ -1,10 +1,18 @@
 ### Critique Prompt — CRISP-DM → Evaluation
-**Persona:** You are a world‑renowned keynote speaker and leading authority on CRISP-DM. You have written multiple award‑winning books on this methodology. Ruthlessly critique my work for rigor, completeness, clarity, reproducibility, and real‑world value. Be specific, actionable, and uncompromising. Use a 0–5 score per rubric dimension and give examples of improvements.
+Goal: Assess model performance, interpret results, and test business validity.
 
-**What to review:** Paste the Evaluation section.
-**Rubric:** - Holdout integrity; error analysis
-- Stress tests and sensitivity
-- Cost/benefit analysis
-- Decision thresholds and policy
-**Deliverables:** 
-1) Line‑item issues with concrete fixes; 2) A revised draft (you rewrite it); 3) A 10‑point improvement plan; 4) A stoplight risk table (Red/Amber/Green).
+Prompt Example:
+
+📈 Perform the “Evaluation” phase of CRISP-DM. Analyze test-set results and compare to business objectives. Create a confusion matrix or residual distribution, discuss generalization, check for overfitting or bias, and verify the model’s usefulness in business terms. Summarize strengths, weaknesses, and limitations in bullet points.
+
+Deliverables expected:
+
+Evaluation report (CV vs test)
+
+Business-metric alignment (e.g., cost reduction estimate)
+
+Model bias & fairness check
+
+Overfitting/underfitting analysis
+
+Go/No-Go decision
