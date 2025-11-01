@@ -1,0 +1,586 @@
+age,gender,item_purchased,category,purchase_amount_usd,location,size,color,season,review_rating,subscription_status,shipping_type,discount_applied,promo_code_used,previous_purchases,payment_method,frequency_of_purchases
+69,Male,Pants,Clothing,21,Wisconsin,L,Charcoal,Fall,3.3,No,Next Day Air,No,No,10,Bank Transfer,Every 3 Months
+38,Male,Belt,Accessories,64,Washington,S,Olive,Spring,4.8,No,Free Shipping,No,No,18,Credit Card,Annually
+34,Male,T-shirt,Clothing,90,Florida,M,Gray,Fall,3.6,Yes,Express,Yes,Yes,50,Credit Card,Every 3 Months
+43,Female,Hoodie,Clothing,50,Florida,M,Olive,Fall,3.0,No,Free Shipping,No,No,4,PayPal,Bi-Weekly
+41,Male,Pants,Clothing,26,Arkansas,L,Yellow,Winter,4.5,No,Next Day Air,Yes,Yes,6,Debit Card,Monthly
+59,Male,Scarf,Accessories,34,Oregon,M,Olive,Winter,3.4,Yes,Express,Yes,Yes,13,PayPal,Weekly
+27,Male,T-shirt,Clothing,89,New York,S,Brown,Winter,3.3,Yes,Express,Yes,Yes,15,Credit Card,Weekly
+23,Female,Pants,Clothing,42,Montana,L,Black,Summer,4.0,No,Store Pickup,No,No,34,Bank Transfer,Weekly
+66,Female,Pants,Clothing,64,New Mexico,L,Cyan,Summer,3.3,No,Next Day Air,No,No,50,Bank Transfer,Quarterly
+18,Female,Scarf,Accessories,45,Texas,M,Charcoal,Fall,5.0,No,Next Day Air,No,No,5,Credit Card,Annually
+64,Male,Pants,Clothing,39,Nevada,M,Charcoal,Summer,3.1,Yes,Express,Yes,Yes,21,Debit Card,Quarterly
+50,Male,Socks,Clothing,21,Tennessee,XL,Indigo,Fall,2.9,Yes,2-Day Shipping,Yes,Yes,25,PayPal,Annually
+50,Male,Hoodie,Clothing,32,Colorado,L,Violet,Summer,3.4,No,Free Shipping,Yes,Yes,1,Bank Transfer,Every 3 Months
+54,Male,Sunglasses,Accessories,74,California,M,Turquoise,Summer,3.0,Yes,Store Pickup,Yes,Yes,31,PayPal,Bi-Weekly
+51,Male,Jeans,Clothing,59,Kentucky,S,Charcoal,Winter,3.9,Yes,Next Day Air,Yes,Yes,5,PayPal,Annually
+20,Male,Jeans,Clothing,39,Georgia,L,Gray,Winter,3.9,Yes,Free Shipping,Yes,Yes,3,Bank Transfer,Quarterly
+63,Female,Sandals,Footwear,39,Kansas,S,White,Winter,3.5,No,Next Day Air,No,No,5,Credit Card,Fortnightly
+48,Male,Jacket,Outerwear,80,Arizona,M,White,Winter,4.3,Yes,Free Shipping,Yes,Yes,6,PayPal,Quarterly
+21,Male,Dress,Clothing,91,Washington,M,Maroon,Spring,4.2,No,Store Pickup,No,No,4,Debit Card,Annually
+40,Male,Sandals,Footwear,45,Michigan,M,Red,Winter,2.5,Yes,Free Shipping,Yes,Yes,47,Credit Card,Annually
+28,Male,Sunglasses,Accessories,80,Maryland,M,Purple,Summer,4.8,No,Next Day Air,Yes,Yes,11,PayPal,Bi-Weekly
+38,Male,Shirt,Clothing,65,Alaska,L,Peach,Spring,2.9,No,2-Day Shipping,No,No,7,Credit Card,Monthly
+31,Male,Sunglasses,Accessories,71,Delaware,M,Orange,Fall,4.3,No,Next Day Air,Yes,Yes,1,Cash,Every 3 Months
+39,Male,Jeans,Clothing,30,Oregon,L,Teal,Summer,4.4,Yes,Next Day Air,Yes,Yes,17,Bank Transfer,Every 3 Months
+68,Female,Boots,Footwear,99,South Carolina,XL,Orange,Summer,3.2,No,Free Shipping,No,No,11,Cash,Weekly
+38,Male,Blouse,Clothing,31,Florida,XL,Gray,Summer,4.5,No,Express,No,No,48,Credit Card,Monthly
+61,Male,Shirt,Clothing,46,Hawaii,L,Yellow,Fall,3.1,Yes,Free Shipping,Yes,Yes,8,PayPal,Annually
+19,Male,Boots,Footwear,85,Georgia,S,Olive,Fall,3.4,No,Free Shipping,Yes,Yes,24,Credit Card,Every 3 Months
+65,Female,Jacket,Outerwear,32,Arkansas,S,Indigo,Fall,4.4,No,Standard,No,No,20,Cash,Annually
+59,Male,Pants,Clothing,47,South Dakota,L,Peach,Fall,3.2,No,Store Pickup,No,No,10,Venmo,Fortnightly
+68,Male,Dress,Clothing,100,Pennsylvania,S,Gold,Spring,3.0,No,Standard,Yes,Yes,24,Bank Transfer,Fortnightly
+46,Female,Shirt,Clothing,79,Florida,M,Teal,Summer,2.5,No,2-Day Shipping,No,No,3,Credit Card,Bi-Weekly
+23,Female,Shorts,Clothing,31,North Dakota,M,Indigo,Summer,4.3,No,Next Day Air,No,No,17,Credit Card,Every 3 Months
+45,Female,Handbag,Accessories,63,Maryland,L,Magenta,Fall,4.3,No,2-Day Shipping,No,No,2,PayPal,Weekly
+26,Male,Jewelry,Accessories,53,Nevada,S,Maroon,Winter,4.4,No,Standard,No,No,35,Cash,Monthly
+37,Female,Hoodie,Clothing,80,Delaware,L,Indigo,Winter,2.7,No,Free Shipping,No,No,18,PayPal,Monthly
+46,Male,Shorts,Clothing,62,Louisiana,S,Purple,Spring,4.0,Yes,Next Day Air,Yes,Yes,37,PayPal,Fortnightly
+39,Male,Sweater,Clothing,60,California,M,Turquoise,Spring,3.9,No,Express,No,No,44,Debit Card,Weekly
+26,Male,Pants,Clothing,76,Texas,L,Black,Winter,4.1,Yes,Express,Yes,Yes,35,Bank Transfer,Every 3 Months
+64,Female,Jacket,Outerwear,57,Wyoming,M,Yellow,Spring,4.9,No,Standard,No,No,49,Credit Card,Monthly
+44,Male,Scarf,Accessories,85,Rhode Island,M,Violet,Winter,3.4,No,Store Pickup,No,No,16,Bank Transfer,Bi-Weekly
+46,Male,Jeans,Clothing,23,Kentucky,L,Blue,Spring,3.8,No,Standard,No,No,39,Debit Card,Bi-Weekly
+46,Female,Pants,Clothing,38,Vermont,S,Indigo,Fall,2.8,No,2-Day Shipping,No,No,34,Cash,Monthly
+48,Female,Blouse,Clothing,37,Kansas,M,Brown,Spring,4.5,No,Standard,No,No,35,Cash,Monthly
+46,Male,Pants,Clothing,75,Delaware,M,Black,Winter,3.3,No,Standard,No,No,35,PayPal,Quarterly
+60,Male,Jacket,Outerwear,25,Colorado,L,Blue,Spring,4.7,No,2-Day Shipping,Yes,Yes,11,Bank Transfer,Quarterly
+36,Female,Sunglasses,Accessories,30,Mississippi,S,Peach,Winter,4.9,No,Express,No,No,47,Credit Card,Bi-Weekly
+46,Male,Scarf,Accessories,74,Wyoming,M,Violet,Spring,3.4,No,Store Pickup,No,No,33,Cash,Every 3 Months
+28,Male,Skirt,Clothing,90,New York,M,Teal,Winter,3.9,Yes,Standard,Yes,Yes,24,Debit Card,Bi-Weekly
+43,Male,Backpack,Accessories,25,Montana,L,Indigo,Spring,2.9,Yes,Next Day Air,Yes,Yes,32,Debit Card,Fortnightly
+61,Male,Dress,Clothing,60,Washington,M,Orange,Fall,3.6,Yes,Standard,Yes,Yes,4,Debit Card,Fortnightly
+47,Male,Shoes,Footwear,23,Maryland,L,Orange,Winter,3.7,No,Free Shipping,No,No,25,PayPal,Quarterly
+40,Male,Jacket,Outerwear,77,Colorado,L,Turquoise,Spring,4.9,Yes,Store Pickup,Yes,Yes,2,Bank Transfer,Quarterly
+62,Female,Scarf,Accessories,38,Washington,M,Silver,Winter,3.5,No,Free Shipping,No,No,41,PayPal,Quarterly
+31,Male,Jacket,Outerwear,88,New Jersey,S,Purple,Spring,3.5,No,Express,No,No,50,Credit Card,Bi-Weekly
+33,Male,Handbag,Accessories,36,Michigan,XL,Cyan,Fall,3.3,Yes,Free Shipping,Yes,Yes,6,Debit Card,Fortnightly
+64,Male,Jewelry,Accessories,62,New York,M,Indigo,Fall,3.2,No,Standard,Yes,Yes,45,Cash,Bi-Weekly
+69,Male,Gloves,Accessories,62,Pennsylvania,L,Pink,Fall,3.6,No,Express,No,No,3,Credit Card,Annually
+19,Male,Coat,Outerwear,84,Arkansas,M,Charcoal,Winter,4.9,Yes,Standard,Yes,Yes,13,PayPal,Fortnightly
+20,Female,Sneakers,Footwear,48,Oregon,M,Gold,Summer,4.6,No,Free Shipping,No,No,34,Credit Card,Every 3 Months
+37,Male,Dress,Clothing,22,South Carolina,M,Teal,Spring,4.9,No,Express,Yes,Yes,23,Debit Card,Annually
+55,Male,Skirt,Clothing,39,Virginia,XL,Silver,Fall,4.2,Yes,Free Shipping,Yes,Yes,6,Debit Card,Quarterly
+37,Male,Jewelry,Accessories,81,Georgia,S,Orange,Summer,2.7,Yes,Standard,Yes,Yes,29,Venmo,Weekly
+50,Male,Jacket,Outerwear,30,Michigan,M,Maroon,Fall,3.9,No,2-Day Shipping,Yes,Yes,46,Cash,Quarterly
+34,Female,Coat,Outerwear,44,Louisiana,M,Turquoise,Spring,2.7,No,2-Day Shipping,No,No,14,Bank Transfer,Monthly
+39,Male,Handbag,Accessories,84,Iowa,L,Yellow,Winter,3.3,Yes,Store Pickup,Yes,Yes,43,Venmo,Monthly
+19,Male,Sandals,Footwear,72,New York,XL,Blue,Summer,3.3,Yes,Store Pickup,Yes,Yes,24,Credit Card,Every 3 Months
+30,Male,Shirt,Clothing,93,New Mexico,M,Indigo,Spring,4.6,No,Standard,No,No,28,PayPal,Weekly
+50,Male,Hoodie,Clothing,53,Arkansas,M,Pink,Spring,3.1,Yes,Express,Yes,Yes,5,Bank Transfer,Bi-Weekly
+38,Male,Hat,Accessories,54,New Hampshire,M,Silver,Spring,2.7,Yes,2-Day Shipping,Yes,Yes,33,PayPal,Weekly
+56,Male,T-shirt,Clothing,37,New York,S,Violet,Fall,4.9,No,Next Day Air,Yes,Yes,14,Cash,Annually
+22,Male,Sweater,Clothing,37,Louisiana,M,Indigo,Summer,4.9,Yes,Store Pickup,Yes,Yes,12,Bank Transfer,Quarterly
+20,Male,Dress,Clothing,54,New Hampshire,XL,White,Summer,4.6,No,Free Shipping,Yes,Yes,44,Debit Card,Annually
+19,Female,Hoodie,Clothing,37,Texas,L,White,Winter,3.9,No,Express,No,No,21,Credit Card,Every 3 Months
+50,Male,Boots,Footwear,63,Nevada,S,Blue,Summer,4.9,No,Express,No,No,18,PayPal,Bi-Weekly
+57,Male,Shorts,Clothing,62,Arizona,XL,Yellow,Spring,4.7,No,Standard,No,No,27,Cash,Fortnightly
+37,Male,Belt,Accessories,66,Maryland,M,Charcoal,Fall,4.4,No,Standard,Yes,Yes,11,Cash,Quarterly
+31,Male,Jewelry,Accessories,20,Georgia,M,Red,Fall,4.4,No,Express,No,No,26,PayPal,Quarterly
+33,Male,T-shirt,Clothing,47,Wyoming,M,Orange,Fall,3.5,Yes,Free Shipping,Yes,Yes,35,Credit Card,Monthly
+26,Male,Gloves,Accessories,77,Colorado,M,Pink,Winter,4.2,No,Free Shipping,No,No,3,Venmo,Quarterly
+44,Female,Hat,Accessories,94,Texas,XL,Cyan,Winter,3.5,No,Express,No,No,48,Bank Transfer,Quarterly
+27,Male,Backpack,Accessories,34,South Dakota,L,Magenta,Fall,3.5,No,Next Day Air,Yes,Yes,34,PayPal,Quarterly
+58,Female,Sneakers,Footwear,27,North Carolina,XL,Gray,Spring,4.6,No,Standard,No,No,11,Venmo,Weekly
+57,Male,Sunglasses,Accessories,50,Missouri,L,Indigo,Summer,4.9,No,Next Day Air,Yes,Yes,32,Debit Card,Bi-Weekly
+38,Male,Jacket,Outerwear,50,Nevada,M,Blue,Winter,2.8,Yes,Free Shipping,Yes,Yes,26,Venmo,Weekly
+55,Male,Sandals,Footwear,97,Minnesota,S,Olive,Winter,3.2,Yes,Store Pickup,Yes,Yes,44,Cash,Every 3 Months
+26,Male,Sweater,Clothing,40,North Carolina,M,Blue,Fall,2.7,No,Next Day Air,No,No,11,Credit Card,Every 3 Months
+30,Female,Shorts,Clothing,87,Montana,S,Cyan,Fall,5.0,No,Next Day Air,No,No,40,Venmo,Quarterly
+58,Male,Sneakers,Footwear,25,Tennessee,M,Magenta,Spring,4.2,Yes,Express,Yes,Yes,3,PayPal,Annually
+47,Male,Jewelry,Accessories,85,California,M,Teal,Fall,4.1,No,Express,Yes,Yes,21,Venmo,Bi-Weekly
+37,Male,Sneakers,Footwear,46,Minnesota,L,Pink,Spring,4.6,No,Standard,No,No,2,Debit Card,Every 3 Months
+47,Male,Handbag,Accessories,42,Hawaii,M,Charcoal,Spring,2.6,Yes,Next Day Air,Yes,Yes,45,Debit Card,Quarterly
+26,Female,Shirt,Clothing,30,Oregon,M,Cyan,Fall,4.5,No,Express,No,No,39,Debit Card,Bi-Weekly
+66,Male,Sneakers,Footwear,50,Georgia,L,Maroon,Winter,2.9,No,Free Shipping,Yes,Yes,17,Credit Card,Annually
+25,Female,Blouse,Clothing,23,Delaware,L,Silver,Spring,4.6,No,Next Day Air,No,No,45,Cash,Quarterly
+42,Female,Blouse,Clothing,59,Vermont,M,Lavender,Winter,3.5,No,Standard,No,No,39,Bank Transfer,Monthly
+23,Female,Jacket,Outerwear,34,Kentucky,XL,Yellow,Fall,4.0,No,Standard,No,No,1,Credit Card,Fortnightly
+51,Female,Sandals,Footwear,81,New York,S,Pink,Fall,4.5,No,Free Shipping,No,No,7,PayPal,Monthly
+30,Male,Hat,Accessories,96,Oregon,M,White,Spring,4.9,No,2-Day Shipping,No,No,50,Credit Card,Quarterly
+30,Male,Scarf,Accessories,44,Vermont,L,Indigo,Winter,3.0,Yes,Store Pickup,Yes,Yes,12,Credit Card,Fortnightly
+53,Female,Coat,Outerwear,27,South Dakota,L,Turquoise,Winter,2.9,No,Next Day Air,No,No,14,PayPal,Every 3 Months
+55,Male,Blouse,Clothing,30,Maryland,XL,Gray,Fall,3.0,No,Free Shipping,Yes,Yes,31,Venmo,Annually
+29,Male,Pants,Clothing,81,Indiana,S,Indigo,Summer,3.0,No,Free Shipping,Yes,Yes,14,Bank Transfer,Fortnightly
+59,Male,Skirt,Clothing,59,Vermont,XL,Gray,Winter,4.7,Yes,2-Day Shipping,Yes,Yes,7,Credit Card,Quarterly
+29,Male,Socks,Clothing,39,Alaska,M,Violet,Spring,3.8,Yes,2-Day Shipping,Yes,Yes,48,PayPal,Every 3 Months
+40,Male,Coat,Outerwear,31,California,S,Pink,Fall,3.2,Yes,Express,Yes,Yes,37,PayPal,Monthly
+61,Male,Hat,Accessories,81,Pennsylvania,M,Beige,Summer,2.6,No,Express,Yes,Yes,46,Credit Card,Monthly
+28,Female,Handbag,Accessories,52,West Virginia,M,Green,Fall,2.9,No,2-Day Shipping,No,No,35,Venmo,Quarterly
+18,Male,Gloves,Accessories,40,Virginia,L,Turquoise,Winter,2.6,No,Store Pickup,Yes,Yes,6,Cash,Quarterly
+25,Male,Shorts,Clothing,100,Michigan,M,Charcoal,Summer,2.6,No,2-Day Shipping,Yes,Yes,43,Venmo,Annually
+46,Male,Coat,Outerwear,52,West Virginia,S,White,Spring,4.2,No,Store Pickup,Yes,Yes,12,Venmo,Monthly
+29,Female,Sandals,Footwear,71,Arkansas,M,Purple,Spring,4.8,No,Next Day Air,No,No,14,PayPal,Quarterly
+50,Male,Hat,Accessories,43,Delaware,S,Teal,Summer,4.2,Yes,Free Shipping,Yes,Yes,32,Venmo,Monthly
+45,Male,Coat,Outerwear,33,Connecticut,L,Gray,Winter,4.4,Yes,Store Pickup,Yes,Yes,49,Debit Card,Monthly
+34,Male,Hat,Accessories,28,Wyoming,M,Violet,Spring,3.5,No,Express,Yes,Yes,42,Credit Card,Every 3 Months
+44,Male,Boots,Footwear,55,New York,M,Charcoal,Summer,4.4,No,2-Day Shipping,No,No,47,Cash,Weekly
+29,Male,Socks,Clothing,51,Minnesota,M,Black,Summer,4.5,No,Store Pickup,Yes,Yes,3,Credit Card,Bi-Weekly
+56,Male,Socks,Clothing,27,Nevada,M,Lavender,Summer,4.0,No,Next Day Air,Yes,Yes,15,Bank Transfer,Quarterly
+27,Female,Blouse,Clothing,60,Ohio,M,Blue,Winter,4.9,No,Express,No,No,25,Cash,Monthly
+63,Female,Pants,Clothing,76,Kansas,M,Purple,Fall,3.2,No,Next Day Air,No,No,20,Cash,Weekly
+23,Male,Sweater,Clothing,22,Idaho,M,Red,Spring,3.0,No,Store Pickup,Yes,Yes,46,PayPal,Every 3 Months
+36,Male,Coat,Outerwear,62,Idaho,M,Gray,Summer,4.4,No,Free Shipping,Yes,Yes,12,Venmo,Every 3 Months
+67,Male,Sunglasses,Accessories,67,Idaho,M,Magenta,Winter,3.5,No,Store Pickup,No,No,20,Debit Card,Quarterly
+29,Male,Shirt,Clothing,91,Illinois,M,Gray,Spring,3.4,Yes,Express,Yes,Yes,46,Venmo,Weekly
+32,Male,Belt,Accessories,88,Nevada,M,Cyan,Spring,3.0,Yes,Free Shipping,Yes,Yes,12,Cash,Fortnightly
+62,Male,Pants,Clothing,97,California,S,Maroon,Winter,4.9,No,2-Day Shipping,Yes,Yes,2,PayPal,Quarterly
+30,Male,Pants,Clothing,24,New Jersey,M,Purple,Summer,3.3,Yes,Store Pickup,Yes,Yes,17,Debit Card,Every 3 Months
+57,Male,Coat,Outerwear,28,Indiana,S,Olive,Summer,2.8,No,Express,No,No,45,Debit Card,Weekly
+43,Female,Scarf,Accessories,58,Massachusetts,S,Turquoise,Summer,2.6,No,Express,No,No,2,PayPal,Fortnightly
+54,Male,Hat,Accessories,94,Hawaii,M,Maroon,Fall,2.9,No,Express,No,No,18,Debit Card,Quarterly
+18,Male,Sandals,Footwear,63,Texas,M,Brown,Spring,4.4,No,Free Shipping,No,No,20,Bank Transfer,Weekly
+25,Female,Scarf,Accessories,83,Tennessee,L,Lavender,Fall,2.6,No,Standard,No,No,33,PayPal,Quarterly
+53,Male,Handbag,Accessories,37,Delaware,M,Maroon,Fall,3.6,No,2-Day Shipping,No,No,23,Cash,Quarterly
+31,Female,Shorts,Clothing,32,Utah,L,Yellow,Fall,3.4,No,Express,No,No,29,Bank Transfer,Annually
+42,Male,T-shirt,Clothing,20,Alaska,M,Green,Summer,2.6,Yes,Free Shipping,Yes,Yes,26,Credit Card,Weekly
+64,Female,Shirt,Clothing,56,New Mexico,M,Indigo,Winter,2.6,No,Express,No,No,30,PayPal,Annually
+29,Male,Gloves,Accessories,22,Ohio,M,Purple,Spring,3.6,Yes,2-Day Shipping,Yes,Yes,33,Venmo,Bi-Weekly
+58,Male,Jewelry,Accessories,76,Pennsylvania,S,Olive,Fall,3.0,Yes,Free Shipping,Yes,Yes,42,Venmo,Weekly
+53,Male,Backpack,Accessories,81,New Hampshire,L,Black,Spring,2.7,Yes,Next Day Air,Yes,Yes,30,Credit Card,Quarterly
+58,Male,Pants,Clothing,68,California,M,Charcoal,Summer,3.2,Yes,2-Day Shipping,Yes,Yes,23,Credit Card,Bi-Weekly
+40,Male,Jacket,Outerwear,61,New Mexico,S,Olive,Spring,3.3,No,Express,No,No,40,Cash,Quarterly
+54,Male,Sunglasses,Accessories,48,Vermont,M,Purple,Fall,3.9,No,Free Shipping,No,No,3,Cash,Quarterly
+39,Female,Sandals,Footwear,78,Virginia,S,Brown,Summer,2.5,No,Free Shipping,No,No,8,Debit Card,Quarterly
+37,Male,Sweater,Clothing,68,Georgia,L,Green,Fall,3.3,No,Express,No,No,16,Debit Card,Every 3 Months
+70,Male,Handbag,Accessories,77,Louisiana,L,Brown,Fall,4.1,No,Express,No,No,12,Venmo,Monthly
+52,Male,Blouse,Clothing,34,Arizona,L,Peach,Spring,3.0,No,2-Day Shipping,No,No,43,Debit Card,Quarterly
+25,Male,Dress,Clothing,44,Illinois,S,Teal,Winter,3.4,No,Free Shipping,Yes,Yes,25,Cash,Quarterly
+24,Male,Handbag,Accessories,39,Oklahoma,M,Charcoal,Spring,4.5,Yes,Standard,Yes,Yes,29,Cash,Monthly
+53,Male,Shorts,Clothing,72,Oklahoma,M,Charcoal,Summer,2.5,Yes,Free Shipping,Yes,Yes,27,Bank Transfer,Every 3 Months
+47,Male,Gloves,Accessories,94,New York,XL,Gray,Spring,4.5,Yes,2-Day Shipping,Yes,Yes,14,PayPal,Fortnightly
+23,Female,Sweater,Clothing,41,New Hampshire,L,Turquoise,Spring,3.4,No,Next Day Air,No,No,6,PayPal,Monthly
+51,Male,Socks,Clothing,67,Oklahoma,L,Violet,Winter,4.8,Yes,Next Day Air,Yes,Yes,35,Credit Card,Quarterly
+21,Male,Blouse,Clothing,50,New Hampshire,S,Red,Winter,3.0,Yes,Next Day Air,Yes,Yes,24,Venmo,Fortnightly
+57,Male,Dress,Clothing,26,Delaware,XL,Violet,Fall,3.3,Yes,Next Day Air,Yes,Yes,40,Bank Transfer,Monthly
+21,Male,Hoodie,Clothing,42,Kansas,L,Magenta,Fall,3.7,Yes,Next Day Air,Yes,Yes,47,Bank Transfer,Monthly
+64,Female,Jeans,Clothing,94,New Hampshire,L,Lavender,Winter,3.8,No,Standard,No,No,6,Cash,Monthly
+23,Male,Boots,Footwear,75,South Dakota,M,Pink,Winter,4.9,No,Next Day Air,No,No,41,Credit Card,Weekly
+21,Female,T-shirt,Clothing,86,Oklahoma,M,Red,Winter,2.6,No,Express,No,No,28,Venmo,Bi-Weekly
+67,Male,Backpack,Accessories,96,Hawaii,M,Charcoal,Winter,4.2,No,Express,Yes,Yes,39,PayPal,Fortnightly
+41,Male,Shoes,Footwear,89,Colorado,L,Pink,Summer,4.6,No,Store Pickup,No,No,19,Credit Card,Weekly
+60,Male,Backpack,Accessories,63,Arizona,L,Orange,Summer,2.9,No,Store Pickup,No,No,47,PayPal,Every 3 Months
+54,Male,Backpack,Accessories,31,Louisiana,M,Silver,Summer,3.3,No,Express,No,No,48,PayPal,Every 3 Months
+21,Male,Belt,Accessories,83,New York,M,Gray,Fall,3.9,No,Express,No,No,6,Bank Transfer,Bi-Weekly
+45,Male,Belt,Accessories,40,Iowa,M,Magenta,Fall,3.1,No,Free Shipping,Yes,Yes,10,Credit Card,Fortnightly
+49,Male,Coat,Outerwear,95,Florida,M,White,Fall,3.8,Yes,Store Pickup,Yes,Yes,30,Venmo,Annually
+46,Female,Scarf,Accessories,62,Wyoming,L,Green,Fall,2.9,No,Free Shipping,No,No,6,Bank Transfer,Annually
+64,Male,Shoes,Footwear,61,Connecticut,L,Blue,Summer,3.5,No,Next Day Air,No,No,4,Cash,Annually
+64,Male,Boots,Footwear,45,Florida,M,Cyan,Spring,2.9,Yes,Next Day Air,Yes,Yes,21,Venmo,Annually
+66,Male,Gloves,Accessories,63,Washington,M,Red,Summer,4.3,Yes,Express,Yes,Yes,47,Cash,Every 3 Months
+63,Male,Sweater,Clothing,41,Louisiana,XL,Purple,Spring,4.8,Yes,Next Day Air,Yes,Yes,37,Cash,Bi-Weekly
+50,Male,Jeans,Clothing,90,Rhode Island,M,Turquoise,Winter,4.2,Yes,Standard,Yes,Yes,25,Venmo,Fortnightly
+69,Male,Jeans,Clothing,93,Oklahoma,M,Lavender,Fall,2.5,No,Next Day Air,No,No,9,Cash,Weekly
+20,Male,Shoes,Footwear,35,Maine,L,Yellow,Winter,4.8,No,Express,Yes,Yes,18,Venmo,Fortnightly
+36,Female,Dress,Clothing,30,Colorado,L,Peach,Winter,4.7,No,Free Shipping,No,No,6,Bank Transfer,Quarterly
+21,Female,Sneakers,Footwear,55,Colorado,L,White,Summer,4.9,No,Next Day Air,No,No,33,Cash,Fortnightly
+50,Male,Hat,Accessories,22,Connecticut,L,Beige,Spring,2.9,No,2-Day Shipping,No,No,45,PayPal,Quarterly
+23,Male,Skirt,Clothing,72,Missouri,XL,Brown,Winter,3.3,No,Standard,No,No,3,Bank Transfer,Weekly
+20,Male,Sweater,Clothing,64,Idaho,L,Black,Winter,2.9,No,2-Day Shipping,Yes,Yes,42,Venmo,Fortnightly
+26,Male,Jewelry,Accessories,31,Illinois,S,Black,Summer,4.0,No,Next Day Air,Yes,Yes,6,Credit Card,Fortnightly
+43,Male,Shorts,Clothing,60,Missouri,L,Cyan,Fall,3.0,Yes,Standard,Yes,Yes,50,Debit Card,Every 3 Months
+42,Female,T-shirt,Clothing,35,Indiana,M,Violet,Spring,2.7,No,Standard,No,No,21,Cash,Every 3 Months
+32,Male,Backpack,Accessories,31,Louisiana,L,Yellow,Summer,4.8,No,Standard,No,No,4,Debit Card,Quarterly
+46,Female,T-shirt,Clothing,44,Idaho,M,Violet,Winter,3.3,No,Free Shipping,No,No,31,Bank Transfer,Monthly
+26,Male,Hoodie,Clothing,73,Louisiana,L,Silver,Winter,4.7,No,Free Shipping,No,No,9,Debit Card,Fortnightly
+61,Male,Scarf,Accessories,44,New Hampshire,M,Peach,Winter,3.8,No,Free Shipping,No,No,25,Venmo,Annually
+51,Male,Jacket,Outerwear,25,New York,M,Magenta,Fall,4.3,Yes,Free Shipping,Yes,Yes,34,Credit Card,Monthly
+27,Female,Belt,Accessories,68,Kansas,M,Green,Summer,4.0,No,Free Shipping,No,No,18,Venmo,Monthly
+35,Male,Sandals,Footwear,80,Wisconsin,M,Orange,Winter,4.4,No,Express,Yes,Yes,16,Bank Transfer,Monthly
+43,Male,Sandals,Footwear,28,Texas,M,Violet,Summer,4.6,No,Free Shipping,No,No,7,Cash,Every 3 Months
+38,Male,Sandals,Footwear,21,Hawaii,L,Orange,Winter,4.0,No,Standard,No,No,1,Bank Transfer,Weekly
+30,Male,Skirt,Clothing,40,New Mexico,M,Maroon,Winter,4.5,No,Store Pickup,No,No,35,Bank Transfer,Monthly
+66,Female,Hoodie,Clothing,91,North Dakota,XL,Magenta,Fall,3.8,No,Store Pickup,No,No,1,Credit Card,Every 3 Months
+65,Male,Coat,Outerwear,44,South Carolina,M,Black,Fall,2.9,No,Free Shipping,No,No,1,Venmo,Quarterly
+35,Male,Shorts,Clothing,26,Missouri,M,Lavender,Fall,4.0,Yes,Standard,Yes,Yes,40,Debit Card,Annually
+23,Female,Socks,Clothing,45,Georgia,M,Pink,Fall,3.0,No,Express,No,No,34,Credit Card,Fortnightly
+66,Male,Jewelry,Accessories,24,Wisconsin,XL,Orange,Spring,4.5,Yes,Express,Yes,Yes,24,Debit Card,Annually
+61,Male,T-shirt,Clothing,63,Maine,L,Gray,Spring,4.3,Yes,Express,Yes,Yes,9,Cash,Bi-Weekly
+24,Male,Belt,Accessories,91,Vermont,S,Red,Winter,3.4,No,2-Day Shipping,No,No,44,Debit Card,Quarterly
+62,Male,Skirt,Clothing,24,Indiana,L,Blue,Winter,3.2,Yes,Standard,Yes,Yes,45,Debit Card,Bi-Weekly
+53,Male,Backpack,Accessories,22,Michigan,M,Pink,Fall,4.3,No,Express,No,No,34,Bank Transfer,Weekly
+23,Male,Shoes,Footwear,37,Montana,XL,White,Summer,4.5,Yes,Store Pickup,Yes,Yes,36,Venmo,Annually
+36,Female,Coat,Outerwear,59,Utah,S,Peach,Winter,2.7,No,Next Day Air,No,No,12,PayPal,Annually
+62,Male,Blouse,Clothing,71,Maine,M,Cyan,Summer,3.3,No,Free Shipping,No,No,5,Bank Transfer,Every 3 Months
+67,Male,Sweater,Clothing,42,Mississippi,M,Teal,Fall,2.8,No,Next Day Air,No,No,36,Venmo,Quarterly
+41,Male,T-shirt,Clothing,62,Arizona,L,Gold,Spring,4.9,No,Store Pickup,No,No,46,Debit Card,Weekly
+35,Female,Gloves,Accessories,79,Illinois,M,Gold,Fall,3.4,No,2-Day Shipping,No,No,19,Venmo,Weekly
+62,Female,Handbag,Accessories,66,Illinois,L,Pink,Summer,4.8,No,2-Day Shipping,No,No,20,Venmo,Quarterly
+62,Female,Handbag,Accessories,59,Texas,M,Black,Fall,4.9,No,Next Day Air,No,No,43,Debit Card,Annually
+31,Male,Belt,Accessories,93,Colorado,L,Silver,Winter,3.0,No,2-Day Shipping,Yes,Yes,29,Debit Card,Bi-Weekly
+46,Male,Scarf,Accessories,26,New York,L,Teal,Spring,3.0,Yes,Store Pickup,Yes,Yes,21,Credit Card,Bi-Weekly
+37,Male,Sweater,Clothing,62,Florida,M,Purple,Fall,4.5,Yes,Standard,Yes,Yes,46,Credit Card,Weekly
+35,Female,Shoes,Footwear,72,Georgia,L,Olive,Summer,4.5,No,Standard,No,No,37,Venmo,Monthly
+19,Male,Sunglasses,Accessories,25,Michigan,XL,Gold,Spring,4.3,No,Store Pickup,No,No,24,Cash,Fortnightly
+53,Male,Hoodie,Clothing,44,New Jersey,L,Blue,Fall,4.1,Yes,Standard,Yes,Yes,30,PayPal,Monthly
+40,Male,Jacket,Outerwear,90,Michigan,L,Magenta,Spring,4.9,No,Standard,No,No,21,Credit Card,Quarterly
+51,Male,Sunglasses,Accessories,71,New Jersey,S,Beige,Spring,4.8,No,2-Day Shipping,No,No,31,Credit Card,Fortnightly
+44,Male,Sweater,Clothing,80,North Carolina,L,Lavender,Spring,4.7,No,Store Pickup,Yes,Yes,6,Credit Card,Fortnightly
+47,Male,Boots,Footwear,87,Ohio,XL,Gold,Spring,4.1,No,2-Day Shipping,Yes,Yes,34,Debit Card,Every 3 Months
+29,Female,Sunglasses,Accessories,71,New Mexico,M,Maroon,Summer,3.1,No,Standard,No,No,18,Bank Transfer,Quarterly
+29,Male,Dress,Clothing,99,Alaska,M,Green,Summer,3.4,No,Free Shipping,No,No,49,PayPal,Quarterly
+65,Female,Hat,Accessories,79,Mississippi,M,Peach,Fall,4.0,No,2-Day Shipping,No,No,19,PayPal,Weekly
+67,Male,Hat,Accessories,43,New Hampshire,L,Lavender,Fall,4.6,Yes,Express,Yes,Yes,33,Credit Card,Quarterly
+49,Male,Jacket,Outerwear,96,Hawaii,M,Cyan,Fall,4.3,No,Store Pickup,No,No,39,PayPal,Every 3 Months
+36,Male,T-shirt,Clothing,31,Washington,L,Purple,Fall,4.8,Yes,Next Day Air,Yes,Yes,35,Venmo,Every 3 Months
+32,Male,Sneakers,Footwear,35,Nevada,L,Orange,Summer,2.6,No,Next Day Air,Yes,Yes,45,Credit Card,Bi-Weekly
+21,Male,T-shirt,Clothing,23,South Carolina,L,Yellow,Winter,4.3,Yes,Next Day Air,Yes,Yes,47,Bank Transfer,Every 3 Months
+51,Male,Skirt,Clothing,26,Wisconsin,L,Black,Summer,3.9,No,Standard,No,No,47,PayPal,Bi-Weekly
+68,Male,Pants,Clothing,44,Kansas,M,Teal,Fall,4.3,No,Next Day Air,Yes,Yes,8,Cash,Weekly
+18,Male,Sneakers,Footwear,97,Idaho,S,Red,Fall,4.2,No,2-Day Shipping,No,No,8,Credit Card,Annually
+18,Male,Gloves,Accessories,91,Arkansas,L,Beige,Spring,4.4,No,Next Day Air,No,No,46,Cash,Bi-Weekly
+22,Female,Hat,Accessories,46,Ohio,M,Green,Winter,4.1,No,Store Pickup,No,No,24,Cash,Quarterly
+51,Male,Sunglasses,Accessories,27,Kansas,S,Red,Fall,4.4,Yes,Store Pickup,Yes,Yes,45,Credit Card,Weekly
+25,Male,Gloves,Accessories,99,Rhode Island,M,Blue,Spring,4.9,Yes,Next Day Air,Yes,Yes,48,Debit Card,Every 3 Months
+35,Male,Sunglasses,Accessories,75,New Mexico,XL,Teal,Fall,3.5,No,Express,Yes,Yes,24,Credit Card,Every 3 Months
+40,Male,Sneakers,Footwear,84,Florida,L,Beige,Winter,3.8,No,Standard,No,No,18,Debit Card,Weekly
+29,Male,Sneakers,Footwear,60,South Dakota,S,Peach,Fall,3.6,No,Standard,No,No,19,Debit Card,Monthly
+47,Female,Scarf,Accessories,99,Arkansas,L,Maroon,Fall,4.6,No,Free Shipping,No,No,14,Cash,Weekly
+63,Male,Jeans,Clothing,35,Wyoming,XL,Red,Summer,3.2,No,Express,Yes,Yes,6,Credit Card,Quarterly
+41,Female,Sandals,Footwear,90,Minnesota,XL,Purple,Fall,4.8,No,Express,No,No,41,Venmo,Annually
+69,Female,Hat,Accessories,62,Texas,XL,Peach,Fall,3.2,No,Free Shipping,No,No,33,Cash,Annually
+66,Female,Skirt,Clothing,78,Connecticut,L,White,Spring,3.9,No,2-Day Shipping,No,No,44,Credit Card,Every 3 Months
+61,Female,Gloves,Accessories,94,Pennsylvania,L,Peach,Winter,2.8,No,Free Shipping,No,No,39,Debit Card,Weekly
+62,Male,Sweater,Clothing,97,Arkansas,S,Gray,Winter,4.8,Yes,Next Day Air,Yes,Yes,37,Venmo,Every 3 Months
+47,Female,T-shirt,Clothing,73,Ohio,XL,Black,Winter,2.5,No,Free Shipping,No,No,10,PayPal,Monthly
+41,Male,Backpack,Accessories,73,Mississippi,XL,Brown,Summer,4.7,Yes,Store Pickup,Yes,Yes,46,Credit Card,Weekly
+32,Male,Shorts,Clothing,24,Iowa,M,Magenta,Summer,2.7,Yes,Express,Yes,Yes,18,Venmo,Quarterly
+37,Female,Hoodie,Clothing,45,Idaho,L,Pink,Winter,3.0,No,Store Pickup,No,No,42,Credit Card,Quarterly
+62,Female,Dress,Clothing,100,California,L,Charcoal,Summer,3.0,No,Free Shipping,No,No,7,PayPal,Every 3 Months
+27,Male,Sneakers,Footwear,83,North Carolina,S,Pink,Winter,3.2,Yes,2-Day Shipping,Yes,Yes,47,PayPal,Monthly
+18,Male,Hoodie,Clothing,25,Texas,M,Silver,Summer,3.6,Yes,Express,Yes,Yes,14,PayPal,Annually
+42,Male,Handbag,Accessories,49,Ohio,L,Lavender,Winter,3.3,No,Free Shipping,No,No,30,Credit Card,Monthly
+63,Male,Shorts,Clothing,52,Oklahoma,S,Orange,Fall,3.1,No,2-Day Shipping,Yes,Yes,37,PayPal,Monthly
+68,Male,Hoodie,Clothing,88,New Mexico,M,Orange,Spring,4.1,No,2-Day Shipping,No,No,41,Venmo,Quarterly
+30,Male,Coat,Outerwear,31,Vermont,L,Maroon,Summer,2.8,No,2-Day Shipping,Yes,Yes,28,Bank Transfer,Quarterly
+60,Male,Backpack,Accessories,21,Massachusetts,L,Silver,Summer,2.9,Yes,Standard,Yes,Yes,37,PayPal,Bi-Weekly
+66,Female,Blouse,Clothing,46,South Dakota,M,Violet,Summer,4.7,No,2-Day Shipping,No,No,10,Venmo,Weekly
+66,Female,Belt,Accessories,35,Missouri,S,Yellow,Winter,2.6,No,Standard,No,No,13,Bank Transfer,Weekly
+42,Male,Hat,Accessories,37,Alaska,L,Teal,Spring,4.8,No,Free Shipping,No,No,45,PayPal,Bi-Weekly
+24,Male,Jacket,Outerwear,50,Hawaii,L,Blue,Summer,4.2,Yes,Next Day Air,Yes,Yes,41,Cash,Every 3 Months
+48,Male,Hat,Accessories,25,Minnesota,XL,Magenta,Summer,3.6,Yes,Express,Yes,Yes,36,Credit Card,Every 3 Months
+65,Female,Shorts,Clothing,94,New York,L,Green,Fall,2.9,No,Store Pickup,No,No,13,PayPal,Annually
+59,Male,Pants,Clothing,97,Texas,L,Magenta,Fall,3.5,No,Next Day Air,No,No,25,Venmo,Monthly
+19,Male,Socks,Clothing,48,Washington,M,Black,Spring,4.4,No,Free Shipping,No,No,9,Bank Transfer,Quarterly
+67,Female,Blouse,Clothing,72,Texas,L,Indigo,Winter,3.2,No,Free Shipping,No,No,28,Debit Card,Weekly
+46,Female,Belt,Accessories,33,New Jersey,L,Green,Spring,2.9,No,Standard,No,No,24,Venmo,Quarterly
+65,Female,Jacket,Outerwear,48,Iowa,M,Indigo,Winter,3.5,No,2-Day Shipping,No,No,31,Credit Card,Monthly
+18,Male,Skirt,Clothing,66,Nevada,M,Orange,Spring,3.8,No,Next Day Air,No,No,5,Credit Card,Bi-Weekly
+29,Male,Sweater,Clothing,66,Montana,XL,Brown,Spring,4.4,Yes,Standard,Yes,Yes,14,Debit Card,Weekly
+26,Female,Sandals,Footwear,30,Rhode Island,M,Beige,Spring,3.6,No,Free Shipping,No,No,1,Debit Card,Monthly
+54,Male,Skirt,Clothing,36,Illinois,M,Gray,Fall,2.6,No,Standard,No,No,20,Venmo,Quarterly
+49,Male,Skirt,Clothing,92,Alabama,M,Orange,Fall,3.2,Yes,Store Pickup,Yes,Yes,23,Credit Card,Fortnightly
+20,Male,Shirt,Clothing,29,Connecticut,L,Maroon,Summer,2.8,No,Next Day Air,Yes,Yes,2,Credit Card,Fortnightly
+20,Male,Handbag,Accessories,36,Mississippi,S,Purple,Fall,3.1,Yes,Free Shipping,Yes,Yes,19,Venmo,Monthly
+28,Male,Skirt,Clothing,96,Missouri,L,Green,Fall,3.5,No,Next Day Air,No,No,30,Debit Card,Annually
+39,Male,Hat,Accessories,53,Kentucky,S,Silver,Summer,4.6,Yes,Free Shipping,Yes,Yes,45,PayPal,Weekly
+33,Male,Jewelry,Accessories,90,Ohio,L,Teal,Summer,2.8,Yes,Next Day Air,Yes,Yes,11,Cash,Monthly
+59,Male,Jeans,Clothing,83,Nebraska,M,Green,Winter,3.3,No,2-Day Shipping,No,No,5,PayPal,Monthly
+36,Male,Hat,Accessories,71,Idaho,S,Red,Fall,3.1,Yes,2-Day Shipping,Yes,Yes,28,PayPal,Monthly
+25,Male,Gloves,Accessories,40,California,L,Turquoise,Spring,3.8,No,2-Day Shipping,No,No,29,PayPal,Weekly
+19,Male,Shirt,Clothing,86,New York,M,Maroon,Winter,2.8,Yes,2-Day Shipping,Yes,Yes,5,Credit Card,Monthly
+46,Male,Socks,Clothing,68,Idaho,S,Teal,Winter,4.1,No,Store Pickup,No,No,28,Cash,Bi-Weekly
+44,Female,Shoes,Footwear,77,Minnesota,S,Brown,Summer,3.8,No,Express,No,No,24,Venmo,Weekly
+49,Male,Jeans,Clothing,98,Tennessee,L,Blue,Spring,2.8,No,Store Pickup,No,No,38,Debit Card,Fortnightly
+31,Male,Socks,Clothing,90,Indiana,M,Red,Spring,4.7,No,Standard,No,No,47,Bank Transfer,Annually
+35,Male,Sunglasses,Accessories,86,Nevada,XL,Beige,Spring,3.2,Yes,Express,Yes,Yes,20,Venmo,Bi-Weekly
+18,Male,Boots,Footwear,73,South Carolina,L,Gold,Fall,3.8,No,Free Shipping,Yes,Yes,15,Venmo,Quarterly
+35,Female,Socks,Clothing,55,Nevada,XL,Magenta,Spring,4.4,No,Standard,No,No,30,Credit Card,Weekly
+67,Male,Hoodie,Clothing,98,West Virginia,M,Green,Fall,3.3,No,Standard,Yes,Yes,20,Cash,Annually
+35,Male,Jacket,Outerwear,24,New Hampshire,M,Red,Fall,2.9,No,Next Day Air,Yes,Yes,10,PayPal,Weekly
+40,Female,Shirt,Clothing,34,Kansas,M,Charcoal,Spring,2.7,No,Express,No,No,1,Credit Card,Quarterly
+41,Male,Socks,Clothing,55,Louisiana,M,Lavender,Spring,3.9,No,Next Day Air,Yes,Yes,15,Debit Card,Annually
+54,Male,Blouse,Clothing,49,New Mexico,L,Purple,Spring,3.0,No,Express,Yes,Yes,20,Credit Card,Monthly
+60,Male,Socks,Clothing,44,Georgia,M,Olive,Fall,4.2,No,2-Day Shipping,No,No,28,Debit Card,Quarterly
+25,Male,Sandals,Footwear,96,West Virginia,M,Indigo,Winter,2.7,No,Express,No,No,28,Credit Card,Fortnightly
+57,Male,Shorts,Clothing,61,Tennessee,M,Purple,Summer,2.6,No,2-Day Shipping,No,No,43,Cash,Quarterly
+26,Female,Boots,Footwear,55,Massachusetts,L,Maroon,Winter,4.2,No,Next Day Air,No,No,34,Debit Card,Fortnightly
+32,Male,Sweater,Clothing,43,Missouri,L,Cyan,Winter,4.4,Yes,Express,Yes,Yes,34,Credit Card,Bi-Weekly
+33,Male,Sunglasses,Accessories,79,Arizona,L,Lavender,Winter,2.7,Yes,2-Day Shipping,Yes,Yes,43,Credit Card,Weekly
+45,Male,T-shirt,Clothing,60,Indiana,M,Turquoise,Winter,4.2,No,Express,No,No,44,Debit Card,Annually
+37,Female,Shirt,Clothing,32,Kentucky,M,Yellow,Winter,4.6,No,Next Day Air,No,No,18,PayPal,Fortnightly
+56,Male,Shoes,Footwear,83,Iowa,M,Cyan,Summer,3.3,No,Free Shipping,Yes,Yes,10,Bank Transfer,Every 3 Months
+39,Male,Shorts,Clothing,98,Missouri,M,Yellow,Summer,4.6,No,Store Pickup,No,No,9,Cash,Fortnightly
+20,Male,Coat,Outerwear,28,Maine,L,Yellow,Winter,4.6,No,Express,No,No,1,Credit Card,Every 3 Months
+66,Male,Sneakers,Footwear,52,Louisiana,L,Olive,Spring,4.9,No,Express,Yes,Yes,15,Venmo,Bi-Weekly
+24,Male,Pants,Clothing,74,Idaho,M,Gray,Fall,3.5,No,Standard,No,No,23,Credit Card,Weekly
+44,Male,Pants,Clothing,88,Utah,L,Red,Summer,4.0,Yes,Free Shipping,Yes,Yes,36,PayPal,Monthly
+38,Male,Jewelry,Accessories,20,Nevada,M,Red,Spring,3.6,Yes,Next Day Air,Yes,Yes,13,Credit Card,Annually
+33,Male,Jewelry,Accessories,62,New Mexico,L,Orange,Fall,3.4,Yes,Free Shipping,Yes,Yes,19,Debit Card,Weekly
+41,Male,Sneakers,Footwear,36,Vermont,L,Orange,Summer,4.7,Yes,Free Shipping,Yes,Yes,48,Debit Card,Quarterly
+25,Male,Pants,Clothing,83,New Mexico,M,Turquoise,Spring,3.3,No,Standard,No,No,4,Bank Transfer,Every 3 Months
+47,Male,Pants,Clothing,59,Minnesota,M,Purple,Fall,3.1,Yes,Store Pickup,Yes,Yes,32,Debit Card,Annually
+29,Male,Skirt,Clothing,82,Maine,S,Pink,Spring,4.2,No,Free Shipping,No,No,20,Cash,Quarterly
+38,Male,Shoes,Footwear,34,Nevada,S,Gold,Spring,3.2,No,Free Shipping,No,No,16,PayPal,Every 3 Months
+29,Female,Skirt,Clothing,86,Pennsylvania,L,Charcoal,Spring,4.4,No,Free Shipping,No,No,47,Credit Card,Bi-Weekly
+37,Male,Boots,Footwear,48,Kansas,L,Magenta,Winter,3.3,No,Standard,No,No,23,PayPal,Quarterly
+36,Female,Backpack,Accessories,86,Nevada,L,Silver,Spring,4.0,No,Next Day Air,No,No,16,Debit Card,Every 3 Months
+48,Male,Shoes,Footwear,96,Nebraska,S,Maroon,Summer,3.9,No,Express,No,No,21,Bank Transfer,Annually
+43,Female,Jeans,Clothing,67,Connecticut,L,Maroon,Fall,4.9,No,Free Shipping,No,No,27,PayPal,Monthly
+46,Female,Dress,Clothing,45,Washington,M,Gray,Summer,4.7,No,Free Shipping,No,No,42,Credit Card,Bi-Weekly
+29,Male,Sunglasses,Accessories,69,Michigan,M,Olive,Fall,3.5,Yes,Store Pickup,Yes,Yes,31,Credit Card,Quarterly
+26,Female,Backpack,Accessories,58,California,XL,Green,Summer,3.5,No,Next Day Air,No,No,24,Credit Card,Quarterly
+53,Male,Shoes,Footwear,47,Maine,S,Violet,Winter,3.4,No,Standard,No,No,20,Debit Card,Fortnightly
+54,Male,Sneakers,Footwear,99,Alaska,M,Pink,Summer,3.0,Yes,Store Pickup,Yes,Yes,13,Cash,Quarterly
+32,Male,Handbag,Accessories,80,West Virginia,M,Gray,Fall,5.0,Yes,Express,Yes,Yes,12,Bank Transfer,Annually
+23,Male,Hoodie,Clothing,94,Oklahoma,M,Green,Spring,4.6,No,Store Pickup,Yes,Yes,14,Venmo,Every 3 Months
+39,Male,Backpack,Accessories,22,California,M,Black,Spring,4.0,No,Next Day Air,No,No,12,Bank Transfer,Annually
+24,Female,Coat,Outerwear,81,Washington,L,Pink,Winter,4.1,No,2-Day Shipping,No,No,43,Venmo,Weekly
+59,Male,Sweater,Clothing,32,Illinois,M,Teal,Summer,3.1,No,Standard,Yes,Yes,46,Venmo,Fortnightly
+41,Male,Belt,Accessories,95,Tennessee,S,Cyan,Winter,3.0,Yes,Standard,Yes,Yes,47,Credit Card,Monthly
+32,Male,Blouse,Clothing,21,Hawaii,L,Lavender,Summer,4.7,No,Store Pickup,Yes,Yes,41,Cash,Quarterly
+67,Male,Sweater,Clothing,90,Indiana,M,White,Fall,4.9,No,Express,No,No,25,Debit Card,Quarterly
+33,Male,T-shirt,Clothing,56,New Mexico,S,Lavender,Summer,3.9,No,Next Day Air,No,No,4,Debit Card,Every 3 Months
+47,Female,Jewelry,Accessories,30,South Carolina,L,Red,Fall,4.5,No,Standard,No,No,8,Bank Transfer,Quarterly
+64,Male,Backpack,Accessories,58,Indiana,M,Cyan,Summer,3.5,No,Next Day Air,Yes,Yes,50,Debit Card,Annually
+66,Male,Socks,Clothing,85,North Dakota,L,Green,Winter,3.4,No,Standard,No,No,28,Bank Transfer,Bi-Weekly
+48,Male,Pants,Clothing,85,Hawaii,M,Teal,Spring,2.7,Yes,Free Shipping,Yes,Yes,43,Bank Transfer,Bi-Weekly
+22,Male,Belt,Accessories,29,Alabama,M,Magenta,Fall,4.2,Yes,Express,Yes,Yes,32,Debit Card,Every 3 Months
+52,Female,Dress,Clothing,54,Tennessee,L,Beige,Spring,3.4,No,Next Day Air,No,No,35,Debit Card,Weekly
+48,Male,Boots,Footwear,81,South Carolina,M,Violet,Fall,4.9,Yes,Next Day Air,Yes,Yes,30,PayPal,Bi-Weekly
+35,Male,Jewelry,Accessories,43,Kansas,XL,Turquoise,Winter,3.2,Yes,Free Shipping,Yes,Yes,48,Venmo,Annually
+46,Female,Sandals,Footwear,66,New Mexico,M,Charcoal,Spring,4.5,No,Store Pickup,No,No,36,Cash,Annually
+28,Male,Jeans,Clothing,76,California,M,Peach,Winter,3.2,Yes,Store Pickup,Yes,Yes,47,PayPal,Quarterly
+56,Female,T-shirt,Clothing,59,Tennessee,M,Magenta,Fall,3.4,No,2-Day Shipping,No,No,26,Cash,Annually
+47,Male,Jeans,Clothing,64,Maine,M,Magenta,Spring,3.9,No,Standard,Yes,Yes,29,Credit Card,Monthly
+30,Female,Boots,Footwear,65,Illinois,M,Olive,Summer,3.9,No,Standard,No,No,1,Cash,Bi-Weekly
+22,Female,Jacket,Outerwear,81,Minnesota,M,Maroon,Spring,3.3,No,2-Day Shipping,No,No,47,Cash,Every 3 Months
+50,Male,Hoodie,Clothing,98,North Carolina,S,Teal,Spring,4.3,No,Store Pickup,Yes,Yes,25,Cash,Fortnightly
+39,Male,Sweater,Clothing,72,Kentucky,M,Purple,Winter,4.2,No,Standard,No,No,20,PayPal,Weekly
+35,Male,Sunglasses,Accessories,48,Oklahoma,M,Purple,Winter,3.5,Yes,Next Day Air,Yes,Yes,24,Bank Transfer,Annually
+23,Male,Sneakers,Footwear,69,Arkansas,L,Turquoise,Summer,4.0,Yes,Standard,Yes,Yes,37,Bank Transfer,Monthly
+59,Female,Blouse,Clothing,66,Virginia,M,Olive,Winter,4.0,No,Next Day Air,No,No,22,PayPal,Annually
+35,Male,Hat,Accessories,28,Delaware,M,Beige,Fall,3.1,No,Express,Yes,Yes,8,Bank Transfer,Quarterly
+31,Male,Dress,Clothing,22,Rhode Island,L,Purple,Winter,2.9,Yes,Store Pickup,Yes,Yes,33,Credit Card,Fortnightly
+36,Female,Sandals,Footwear,28,Delaware,M,Beige,Fall,2.7,No,Store Pickup,No,No,25,Venmo,Monthly
+64,Male,Shirt,Clothing,38,Wyoming,L,Orange,Spring,2.9,No,Standard,No,No,10,Venmo,Annually
+37,Male,Jacket,Outerwear,49,Kentucky,XL,Lavender,Fall,3.6,No,Free Shipping,Yes,Yes,24,Venmo,Weekly
+46,Male,Shoes,Footwear,29,Nebraska,L,Turquoise,Summer,2.9,Yes,Express,Yes,Yes,12,PayPal,Bi-Weekly
+48,Female,Sneakers,Footwear,88,South Carolina,M,Orange,Spring,4.4,No,Express,No,No,9,Cash,Quarterly
+26,Male,Jewelry,Accessories,45,New York,L,Peach,Summer,2.9,Yes,2-Day Shipping,Yes,Yes,35,Bank Transfer,Monthly
+58,Male,Jeans,Clothing,36,Maine,S,Lavender,Winter,4.0,No,Store Pickup,No,No,28,Credit Card,Annually
+43,Female,Pants,Clothing,25,Nebraska,L,Blue,Winter,3.3,No,2-Day Shipping,No,No,48,Cash,Monthly
+46,Male,Dress,Clothing,68,Mississippi,S,Cyan,Spring,2.8,Yes,Standard,Yes,Yes,16,Venmo,Annually
+31,Male,Jeans,Clothing,82,Wyoming,L,Red,Summer,4.1,No,2-Day Shipping,No,No,25,Debit Card,Weekly
+56,Male,Scarf,Accessories,97,South Carolina,XL,Cyan,Summer,4.6,Yes,Next Day Air,Yes,Yes,26,Bank Transfer,Annually
+24,Male,Shirt,Clothing,40,Texas,M,Brown,Summer,3.5,Yes,Store Pickup,Yes,Yes,40,Debit Card,Annually
+43,Male,T-shirt,Clothing,34,Vermont,S,Beige,Spring,3.8,No,Next Day Air,No,No,31,Debit Card,Monthly
+34,Female,T-shirt,Clothing,62,Michigan,M,Lavender,Fall,2.6,No,2-Day Shipping,No,No,36,Cash,Quarterly
+53,Female,Jacket,Outerwear,30,South Carolina,M,Beige,Summer,2.8,No,Free Shipping,No,No,35,Debit Card,Annually
+27,Male,Scarf,Accessories,67,Montana,L,Peach,Summer,2.9,No,2-Day Shipping,Yes,Yes,41,Bank Transfer,Every 3 Months
+45,Male,Skirt,Clothing,52,Delaware,M,Brown,Fall,3.4,No,2-Day Shipping,No,No,20,Venmo,Quarterly
+25,Male,Hat,Accessories,47,Virginia,M,Charcoal,Winter,3.1,No,2-Day Shipping,Yes,Yes,27,PayPal,Every 3 Months
+23,Male,Sweater,Clothing,74,Florida,XL,Yellow,Fall,4.1,No,Standard,Yes,Yes,30,Debit Card,Annually
+29,Male,Belt,Accessories,81,New Jersey,M,Olive,Spring,4.5,No,Store Pickup,Yes,Yes,8,Venmo,Bi-Weekly
+69,Male,Skirt,Clothing,92,South Dakota,L,Maroon,Fall,4.2,Yes,2-Day Shipping,Yes,Yes,45,Debit Card,Fortnightly
+63,Female,Sandals,Footwear,21,Michigan,XL,Orange,Summer,4.8,No,Next Day Air,No,No,24,PayPal,Weekly
+48,Male,Hat,Accessories,68,Washington,M,Black,Winter,5.0,Yes,2-Day Shipping,Yes,Yes,5,Credit Card,Every 3 Months
+26,Male,Coat,Outerwear,97,West Virginia,L,Silver,Summer,2.6,Yes,Express,Yes,Yes,8,Venmo,Annually
+32,Female,Scarf,Accessories,56,New Mexico,S,Silver,Summer,4.0,No,Next Day Air,No,No,26,Credit Card,Monthly
+45,Male,Sunglasses,Accessories,27,Mississippi,L,Black,Winter,3.5,No,Standard,No,No,48,Cash,Fortnightly
+44,Male,Backpack,Accessories,49,Delaware,M,Peach,Summer,3.2,No,Free Shipping,No,No,38,Venmo,Bi-Weekly
+23,Male,Hat,Accessories,25,Idaho,M,Brown,Spring,4.5,No,Store Pickup,No,No,23,Cash,Monthly
+30,Male,Jewelry,Accessories,27,Ohio,XL,Olive,Winter,4.7,No,Store Pickup,Yes,Yes,16,Debit Card,Fortnightly
+59,Male,Jeans,Clothing,29,Michigan,M,Indigo,Summer,2.8,Yes,Express,Yes,Yes,15,PayPal,Annually
+67,Female,Backpack,Accessories,22,North Carolina,M,Blue,Spring,3.4,No,Next Day Air,No,No,26,Bank Transfer,Weekly
+61,Male,Dress,Clothing,95,Maryland,M,Black,Spring,4.9,No,2-Day Shipping,Yes,Yes,25,Bank Transfer,Monthly
+57,Male,Jewelry,Accessories,91,Nevada,L,Yellow,Fall,4.2,Yes,Express,Yes,Yes,26,Bank Transfer,Weekly
+44,Male,Blouse,Clothing,94,South Dakota,L,Magenta,Fall,4.0,No,Next Day Air,No,No,22,Cash,Annually
+70,Male,Pants,Clothing,97,Minnesota,M,Silver,Fall,3.9,No,Express,No,No,50,Venmo,Monthly
+42,Male,Shirt,Clothing,55,Nevada,M,Orange,Summer,2.7,Yes,Store Pickup,Yes,Yes,38,Cash,Monthly
+28,Female,Blouse,Clothing,87,Washington,M,White,Summer,4.2,No,Store Pickup,No,No,47,Bank Transfer,Bi-Weekly
+22,Male,Pants,Clothing,73,Utah,L,Cyan,Fall,3.6,No,Free Shipping,Yes,Yes,20,Cash,Weekly
+70,Female,Sweater,Clothing,54,Nevada,XL,Beige,Summer,3.9,No,2-Day Shipping,No,No,33,Credit Card,Bi-Weekly
+47,Female,Belt,Accessories,85,Idaho,XL,Orange,Fall,4.3,No,Next Day Air,No,No,36,Debit Card,Every 3 Months
+65,Male,Jacket,Outerwear,65,Alabama,M,Blue,Fall,2.6,Yes,Next Day Air,Yes,Yes,25,PayPal,Fortnightly
+58,Male,Shoes,Footwear,49,North Dakota,S,Olive,Summer,3.0,No,2-Day Shipping,No,No,34,Bank Transfer,Quarterly
+56,Male,Hat,Accessories,89,Iowa,L,Maroon,Fall,3.0,No,Express,Yes,Yes,37,Credit Card,Every 3 Months
+26,Male,Socks,Clothing,30,Florida,L,Blue,Summer,2.9,No,Store Pickup,No,No,26,Bank Transfer,Bi-Weekly
+36,Male,Belt,Accessories,39,Montana,L,Pink,Summer,3.6,No,Store Pickup,No,No,38,Venmo,Monthly
+37,Female,Socks,Clothing,25,Montana,L,Red,Fall,3.6,No,Free Shipping,No,No,16,Debit Card,Weekly
+60,Female,Sandals,Footwear,20,Maryland,S,Cyan,Summer,4.7,No,Express,No,No,40,Venmo,Every 3 Months
+65,Male,Shirt,Clothing,59,Indiana,XL,Red,Spring,2.9,No,Store Pickup,Yes,Yes,33,Credit Card,Monthly
+66,Male,Belt,Accessories,93,South Dakota,XL,Charcoal,Winter,4.1,No,Standard,Yes,Yes,34,PayPal,Bi-Weekly
+66,Male,Coat,Outerwear,24,Florida,M,Violet,Spring,3.3,Yes,Free Shipping,Yes,Yes,22,PayPal,Weekly
+51,Male,Gloves,Accessories,76,Wyoming,S,Black,Winter,2.8,No,Store Pickup,No,No,50,Debit Card,Weekly
+36,Male,Shirt,Clothing,87,South Carolina,L,Lavender,Fall,3.5,No,Next Day Air,No,No,48,Credit Card,Every 3 Months
+27,Male,Coat,Outerwear,22,Connecticut,XL,Black,Winter,4.4,No,Store Pickup,Yes,Yes,7,PayPal,Weekly
+31,Female,Socks,Clothing,53,Maine,XL,White,Winter,4.5,No,Next Day Air,No,No,42,Venmo,Fortnightly
+28,Male,Handbag,Accessories,26,Mississippi,S,Peach,Winter,3.0,No,Next Day Air,No,No,13,Venmo,Fortnightly
+27,Female,Shirt,Clothing,24,Oklahoma,XL,Red,Winter,4.5,No,Standard,No,No,38,Cash,Every 3 Months
+28,Male,Shorts,Clothing,33,West Virginia,L,Cyan,Winter,3.1,No,2-Day Shipping,No,No,23,Credit Card,Bi-Weekly
+25,Female,Sneakers,Footwear,92,Mississippi,XL,Pink,Winter,4.1,No,Express,No,No,29,PayPal,Fortnightly
+59,Male,T-shirt,Clothing,45,Louisiana,L,Yellow,Winter,4.1,No,Standard,Yes,Yes,37,Venmo,Monthly
+53,Male,Sneakers,Footwear,67,West Virginia,L,Indigo,Spring,2.9,No,Free Shipping,No,No,35,Bank Transfer,Quarterly
+23,Male,Jeans,Clothing,48,Wyoming,L,Black,Fall,4.3,No,Express,No,No,1,Debit Card,Every 3 Months
+45,Female,Gloves,Accessories,32,Texas,L,Red,Spring,4.3,No,2-Day Shipping,No,No,36,Debit Card,Bi-Weekly
+43,Male,Boots,Footwear,55,Delaware,L,Black,Spring,5.0,Yes,Store Pickup,Yes,Yes,10,Credit Card,Annually
+51,Male,Shoes,Footwear,72,New Mexico,L,White,Winter,4.5,No,2-Day Shipping,No,No,48,Credit Card,Every 3 Months
+30,Male,T-shirt,Clothing,62,North Carolina,M,Lavender,Winter,3.7,Yes,2-Day Shipping,Yes,Yes,34,Venmo,Bi-Weekly
+18,Male,Pants,Clothing,36,Iowa,M,Purple,Summer,4.7,No,Express,Yes,Yes,32,Venmo,Fortnightly
+28,Male,Belt,Accessories,41,Hawaii,L,Red,Spring,2.5,No,Next Day Air,Yes,Yes,39,Cash,Monthly
+34,Male,Hat,Accessories,33,Florida,L,Black,Winter,4.4,No,Express,Yes,Yes,32,Debit Card,Quarterly
+47,Male,Scarf,Accessories,32,West Virginia,L,Turquoise,Spring,2.8,No,Next Day Air,Yes,Yes,40,PayPal,Bi-Weekly
+49,Male,Coat,Outerwear,85,New York,M,Yellow,Fall,4.5,Yes,2-Day Shipping,Yes,Yes,26,Credit Card,Monthly
+34,Male,Sandals,Footwear,64,Washington,S,Yellow,Summer,3.3,Yes,Standard,Yes,Yes,30,Bank Transfer,Every 3 Months
+44,Male,Dress,Clothing,27,Texas,L,Charcoal,Fall,3.4,No,Free Shipping,Yes,Yes,3,PayPal,Bi-Weekly
+31,Female,Shorts,Clothing,66,Wisconsin,M,White,Winter,3.7,No,Next Day Air,No,No,14,Bank Transfer,Fortnightly
+66,Male,Blouse,Clothing,45,Nebraska,L,Green,Summer,3.0,No,Store Pickup,No,No,6,Debit Card,Annually
+46,Female,Sweater,Clothing,20,Oklahoma,M,Cyan,Spring,3.9,No,Store Pickup,No,No,14,Cash,Fortnightly
+36,Male,Hat,Accessories,67,Massachusetts,S,Purple,Fall,2.5,No,Store Pickup,Yes,Yes,38,Cash,Monthly
+25,Female,Blouse,Clothing,97,Washington,S,Charcoal,Spring,4.7,No,Free Shipping,No,No,1,Cash,Weekly
+39,Male,Sneakers,Footwear,57,Arizona,S,Indigo,Spring,3.7,Yes,Express,Yes,Yes,48,Debit Card,Fortnightly
+55,Male,Blouse,Clothing,53,Kentucky,L,Gray,Winter,3.1,Yes,Express,Yes,Yes,14,Venmo,Fortnightly
+45,Male,Sunglasses,Accessories,33,Massachusetts,M,Indigo,Spring,3.0,No,Next Day Air,No,No,32,Venmo,Quarterly
+31,Male,Backpack,Accessories,78,California,L,Cyan,Fall,3.0,Yes,Express,Yes,Yes,26,PayPal,Monthly
+57,Male,Skirt,Clothing,38,Wisconsin,M,Gold,Spring,4.1,Yes,Store Pickup,Yes,Yes,17,Credit Card,Monthly
+38,Male,Sandals,Footwear,63,New Mexico,M,Charcoal,Fall,2.8,Yes,Store Pickup,Yes,Yes,37,Venmo,Every 3 Months
+31,Female,Belt,Accessories,73,New Hampshire,M,Blue,Spring,4.8,No,Next Day Air,No,No,38,Cash,Every 3 Months
+31,Female,Pants,Clothing,72,Ohio,S,Orange,Summer,3.3,No,2-Day Shipping,No,No,6,Venmo,Fortnightly
+50,Male,Sunglasses,Accessories,80,Kansas,M,Blue,Winter,4.8,No,Express,No,No,7,Venmo,Annually
+32,Male,Jeans,Clothing,92,Montana,M,White,Summer,3.8,No,Free Shipping,No,No,24,Cash,Quarterly
+34,Male,Gloves,Accessories,40,Florida,M,Magenta,Spring,3.9,Yes,Next Day Air,Yes,Yes,12,Bank Transfer,Annually
+60,Female,Gloves,Accessories,38,Illinois,S,Brown,Summer,4.4,No,Free Shipping,No,No,40,Venmo,Annually
+70,Female,Shirt,Clothing,76,Arkansas,L,Violet,Fall,3.4,No,Free Shipping,No,No,14,Cash,Bi-Weekly
+66,Male,Sunglasses,Accessories,26,Arkansas,S,Black,Summer,2.8,No,Free Shipping,Yes,Yes,40,Bank Transfer,Quarterly
+28,Female,Backpack,Accessories,87,Nebraska,XL,Turquoise,Fall,3.8,No,Next Day Air,No,No,37,Cash,Fortnightly
+48,Male,Sneakers,Footwear,38,Wisconsin,M,Indigo,Summer,4.2,No,Standard,Yes,Yes,7,Bank Transfer,Every 3 Months
+51,Male,Shoes,Footwear,51,South Carolina,S,Gray,Fall,4.9,Yes,Express,Yes,Yes,2,Venmo,Bi-Weekly
+64,Male,Skirt,Clothing,25,Arkansas,L,Red,Spring,2.8,Yes,2-Day Shipping,Yes,Yes,14,Debit Card,Bi-Weekly
+57,Female,Sunglasses,Accessories,76,Maine,L,Lavender,Winter,2.6,No,Store Pickup,No,No,28,Bank Transfer,Bi-Weekly
+48,Female,Sandals,Footwear,28,Connecticut,M,Yellow,Spring,3.7,No,2-Day Shipping,No,No,22,Debit Card,Annually
+34,Male,Gloves,Accessories,62,Tennessee,M,Magenta,Spring,4.7,No,Next Day Air,No,No,48,Bank Transfer,Monthly
+61,Male,Socks,Clothing,29,Kentucky,M,Silver,Summer,3.5,No,Standard,No,No,48,Bank Transfer,Quarterly
+41,Female,Handbag,Accessories,74,West Virginia,S,Orange,Winter,3.8,No,Store Pickup,No,No,3,Bank Transfer,Fortnightly
+41,Female,Hoodie,Clothing,67,Arkansas,M,Pink,Winter,3.5,No,Free Shipping,No,No,37,Credit Card,Monthly
+66,Male,Dress,Clothing,22,Minnesota,M,Yellow,Spring,4.5,Yes,Standard,Yes,Yes,21,Cash,Fortnightly
+54,Female,Blouse,Clothing,75,Connecticut,S,Violet,Summer,3.1,No,Free Shipping,No,No,19,Cash,Annually
+26,Male,Hoodie,Clothing,50,Connecticut,S,Beige,Winter,3.0,No,Next Day Air,No,No,3,Debit Card,Bi-Weekly
+59,Male,Jewelry,Accessories,32,Maryland,M,Indigo,Spring,3.0,Yes,Express,Yes,Yes,28,Cash,Bi-Weekly
+70,Male,Pants,Clothing,70,Vermont,M,Charcoal,Winter,4.3,Yes,Free Shipping,Yes,Yes,38,Debit Card,Annually
+65,Female,Sandals,Footwear,39,Mississippi,M,Blue,Spring,4.6,No,Standard,No,No,33,PayPal,Weekly
+59,Female,Sandals,Footwear,70,Louisiana,M,Charcoal,Spring,4.8,No,Free Shipping,No,No,17,Cash,Bi-Weekly
+35,Male,Hoodie,Clothing,38,Georgia,M,Gold,Winter,2.9,No,2-Day Shipping,No,No,9,Credit Card,Every 3 Months
+40,Male,Backpack,Accessories,61,Arizona,M,Silver,Spring,3.8,No,Next Day Air,Yes,Yes,33,PayPal,Bi-Weekly
+42,Female,Socks,Clothing,37,Florida,L,Black,Winter,4.6,No,2-Day Shipping,No,No,4,PayPal,Bi-Weekly
+64,Male,Shirt,Clothing,97,Arkansas,XL,Teal,Summer,4.9,No,Free Shipping,Yes,Yes,28,Debit Card,Annually
+23,Male,Jacket,Outerwear,29,Missouri,M,Brown,Summer,4.0,Yes,Standard,Yes,Yes,49,Credit Card,Bi-Weekly
+41,Male,Jacket,Outerwear,40,Utah,S,Magenta,Winter,4.2,No,Store Pickup,No,No,6,Venmo,Annually
+49,Male,Coat,Outerwear,69,Vermont,M,Silver,Summer,3.7,Yes,2-Day Shipping,Yes,Yes,24,Credit Card,Bi-Weekly
+20,Female,Blouse,Clothing,96,Wisconsin,M,Magenta,Fall,3.1,No,Next Day Air,No,No,11,Bank Transfer,Bi-Weekly
+69,Male,Sunglasses,Accessories,21,Maine,M,Olive,Winter,2.9,No,Next Day Air,Yes,Yes,8,Credit Card,Annually
+55,Male,Belt,Accessories,80,Maryland,M,Maroon,Spring,4.9,Yes,Next Day Air,Yes,Yes,47,Credit Card,Weekly
+64,Male,Socks,Clothing,36,Nebraska,M,Turquoise,Spring,3.5,Yes,Store Pickup,Yes,Yes,37,Venmo,Fortnightly
+18,Male,Boots,Footwear,93,Ohio,M,Yellow,Winter,3.9,Yes,Express,Yes,Yes,20,Venmo,Weekly
+43,Female,Blouse,Clothing,90,Maine,M,Green,Summer,4.9,No,Standard,No,No,8,Credit Card,Every 3 Months
+33,Male,Jacket,Outerwear,99,Michigan,L,Maroon,Fall,4.2,No,2-Day Shipping,No,No,4,Cash,Fortnightly
+37,Male,Skirt,Clothing,92,Washington,L,White,Summer,3.4,No,2-Day Shipping,Yes,Yes,16,Debit Card,Monthly
+66,Male,Sneakers,Footwear,68,Georgia,S,Silver,Fall,4.0,No,Express,No,No,21,PayPal,Quarterly
+68,Female,Sunglasses,Accessories,44,California,M,Gray,Summer,2.5,No,Next Day Air,No,No,20,Cash,Quarterly
+68,Male,Jacket,Outerwear,55,Michigan,L,Brown,Winter,4.8,No,Express,Yes,Yes,16,Bank Transfer,Quarterly
+51,Female,Sandals,Footwear,66,Alaska,L,Pink,Spring,2.7,No,2-Day Shipping,No,No,26,PayPal,Every 3 Months
+34,Male,Sandals,Footwear,92,Rhode Island,XL,Lavender,Fall,3.5,No,Express,No,No,14,Venmo,Bi-Weekly
+21,Male,Sweater,Clothing,20,Tennessee,M,Cyan,Winter,3.4,Yes,2-Day Shipping,Yes,Yes,46,Cash,Fortnightly
+56,Male,Hat,Accessories,31,California,XL,Teal,Fall,3.1,No,Free Shipping,Yes,Yes,19,Debit Card,Annually
+33,Male,Scarf,Accessories,58,Washington,M,Silver,Spring,2.7,No,Next Day Air,No,No,13,Venmo,Every 3 Months
+58,Female,Sandals,Footwear,26,Georgia,M,Lavender,Fall,4.0,No,Free Shipping,No,No,23,PayPal,Weekly
+41,Male,Pants,Clothing,36,Vermont,XL,Silver,Winter,4.0,No,Store Pickup,No,No,15,Venmo,Bi-Weekly
+41,Male,Coat,Outerwear,46,Colorado,M,Gray,Fall,4.3,No,Express,Yes,Yes,29,Cash,Weekly
+61,Male,Handbag,Accessories,41,Nebraska,M,Lavender,Winter,4.9,Yes,Store Pickup,Yes,Yes,7,Cash,Annually
+29,Male,Backpack,Accessories,88,Wyoming,L,Violet,Winter,2.6,Yes,Store Pickup,Yes,Yes,30,Debit Card,Weekly
+28,Female,Socks,Clothing,77,North Carolina,M,Peach,Fall,3.4,No,Next Day Air,No,No,11,Credit Card,Quarterly
+37,Male,Pants,Clothing,66,Massachusetts,M,Black,Summer,3.2,No,Store Pickup,Yes,Yes,20,Cash,Fortnightly
+69,Male,T-shirt,Clothing,53,Maryland,M,Lavender,Winter,4.0,Yes,Standard,Yes,Yes,11,Venmo,Every 3 Months
+29,Male,Sweater,Clothing,26,Virginia,L,Lavender,Spring,4.8,Yes,2-Day Shipping,Yes,Yes,1,Credit Card,Quarterly
+24,Female,T-shirt,Clothing,65,Utah,M,Maroon,Spring,4.5,No,Express,No,No,38,PayPal,Every 3 Months
+28,Male,Shorts,Clothing,98,Utah,M,Violet,Fall,2.8,No,Next Day Air,Yes,Yes,31,Venmo,Fortnightly
+40,Male,Pants,Clothing,46,Tennessee,L,Cyan,Summer,4.6,Yes,Free Shipping,Yes,Yes,41,Bank Transfer,Weekly
+57,Female,Dress,Clothing,94,Alabama,M,Teal,Summer,3.3,No,Store Pickup,No,No,44,Debit Card,Weekly
+42,Female,Blouse,Clothing,82,Mississippi,M,Charcoal,Spring,3.4,No,Free Shipping,No,No,8,Cash,Weekly
+55,Female,Belt,Accessories,52,Missouri,L,Beige,Fall,3.2,No,Standard,No,No,31,Credit Card,Monthly
+55,Male,Scarf,Accessories,72,Missouri,XL,White,Winter,4.9,Yes,2-Day Shipping,Yes,Yes,36,Bank Transfer,Quarterly
+66,Male,Socks,Clothing,37,South Dakota,L,Yellow,Spring,4.2,No,Standard,No,No,5,PayPal,Every 3 Months
+53,Male,Handbag,Accessories,85,Michigan,S,Green,Spring,3.7,Yes,Free Shipping,Yes,Yes,25,Venmo,Weekly
+34,Male,Boots,Footwear,29,South Dakota,L,Blue,Winter,3.3,No,Store Pickup,No,No,14,Venmo,Quarterly
+57,Male,Coat,Outerwear,46,New Hampshire,S,Beige,Fall,2.6,No,Standard,Yes,Yes,48,Credit Card,Annually
+60,Male,Sweater,Clothing,59,Utah,M,Teal,Fall,3.5,Yes,2-Day Shipping,Yes,Yes,26,PayPal,Annually
+49,Male,Scarf,Accessories,77,New Hampshire,S,Gold,Spring,3.6,Yes,Express,Yes,Yes,44,Cash,Annually
+25,Male,Pants,Clothing,90,Arkansas,XL,Indigo,Summer,4.5,Yes,Free Shipping,Yes,Yes,49,Cash,Quarterly
+20,Male,Socks,Clothing,31,Tennessee,L,Purple,Spring,3.4,No,2-Day Shipping,Yes,Yes,1,PayPal,Annually
+68,Male,Backpack,Accessories,93,Louisiana,S,Blue,Summer,4.3,Yes,Next Day Air,Yes,Yes,37,Cash,Weekly
+20,Female,Handbag,Accessories,24,Wisconsin,M,Cyan,Fall,4.6,No,Standard,No,No,11,Cash,Fortnightly
+51,Male,Backpack,Accessories,74,Alabama,M,Magenta,Fall,4.7,No,2-Day Shipping,No,No,44,Cash,Weekly
+34,Male,Sneakers,Footwear,46,Vermont,L,Gold,Summer,3.5,No,Standard,No,No,37,Venmo,Fortnightly
+59,Male,Shirt,Clothing,87,Missouri,M,Violet,Spring,3.6,Yes,Express,Yes,Yes,25,PayPal,Weekly
+44,Female,Dress,Clothing,93,Utah,S,Maroon,Spring,3.8,No,Next Day Air,No,No,35,Debit Card,Monthly
+37,Male,Dress,Clothing,81,Georgia,L,Yellow,Fall,3.7,No,Standard,No,No,4,Venmo,Annually
+66,Male,Socks,Clothing,79,Pennsylvania,M,Gold,Spring,4.0,No,2-Day Shipping,Yes,Yes,43,Credit Card,Fortnightly
+48,Female,Belt,Accessories,31,Wyoming,M,Maroon,Fall,4.0,No,Store Pickup,No,No,4,Bank Transfer,Annually
+39,Female,Sneakers,Footwear,52,Florida,L,Indigo,Fall,4.8,No,Express,No,No,48,Debit Card,Monthly
+56,Male,Gloves,Accessories,30,New York,L,Charcoal,Winter,4.7,No,Next Day Air,Yes,Yes,35,Debit Card,Monthly
+50,Female,Jacket,Outerwear,31,Montana,M,Gray,Summer,4.0,No,Express,No,No,25,Bank Transfer,Annually
+36,Female,Pants,Clothing,58,Oklahoma,XL,Charcoal,Summer,2.5,No,Free Shipping,No,No,31,Credit Card,Fortnightly
+28,Male,Hoodie,Clothing,27,Kansas,XL,Maroon,Summer,3.0,No,Store Pickup,No,No,41,Bank Transfer,Annually
+27,Male,Shirt,Clothing,54,Arkansas,S,Black,Summer,2.7,No,Free Shipping,Yes,Yes,10,Bank Transfer,Quarterly
+43,Male,Hoodie,Clothing,70,Wyoming,L,Pink,Fall,3.2,No,2-Day Shipping,No,No,36,Debit Card,Every 3 Months
+33,Female,Blouse,Clothing,67,Idaho,L,Black,Fall,3.9,No,Free Shipping,No,No,40,Venmo,Every 3 Months
+25,Male,Dress,Clothing,92,Michigan,S,Charcoal,Spring,4.4,No,2-Day Shipping,Yes,Yes,42,Credit Card,Quarterly
+58,Male,Skirt,Clothing,29,Ohio,XL,Beige,Spring,3.6,Yes,2-Day Shipping,Yes,Yes,26,Credit Card,Weekly
+64,Male,Skirt,Clothing,34,Ohio,M,Peach,Fall,4.2,Yes,Free Shipping,Yes,Yes,5,Cash,Annually
+59,Female,Dress,Clothing,70,Montana,M,Black,Summer,3.3,No,2-Day Shipping,No,No,18,Bank Transfer,Weekly
+52,Male,Skirt,Clothing,96,Minnesota,L,Violet,Winter,3.6,No,Store Pickup,Yes,Yes,12,Venmo,Fortnightly
+67,Male,Coat,Outerwear,31,Connecticut,M,Lavender,Winter,2.6,Yes,Express,Yes,Yes,40,Bank Transfer,Monthly
+51,Male,Socks,Clothing,71,Massachusetts,S,Teal,Winter,3.4,No,Free Shipping,No,No,21,Debit Card,Monthly
+67,Male,Belt,Accessories,94,Florida,M,Pink,Spring,3.2,No,2-Day Shipping,Yes,Yes,20,Credit Card,Every 3 Months
+52,Female,Shoes,Footwear,26,Alabama,XL,Red,Fall,2.6,No,Free Shipping,No,No,43,PayPal,Bi-Weekly
+19,Male,Scarf,Accessories,81,Pennsylvania,S,Gold,Spring,3.3,No,2-Day Shipping,No,No,44,Bank Transfer,Every 3 Months
+56,Male,Shorts,Clothing,50,California,XL,Beige,Spring,3.7,No,Express,No,No,50,PayPal,Weekly
+43,Male,Sandals,Footwear,81,Kansas,M,Purple,Fall,4.1,Yes,Express,Yes,Yes,12,PayPal,Quarterly
+32,Male,Sweater,Clothing,100,Iowa,XL,Charcoal,Winter,2.7,Yes,Store Pickup,Yes,Yes,12,Bank Transfer,Every 3 Months
+36,Male,T-shirt,Clothing,82,Texas,M,Indigo,Fall,3.4,No,Free Shipping,No,No,3,Debit Card,Quarterly
+65,Male,Skirt,Clothing,90,Massachusetts,L,Peach,Winter,3.6,No,2-Day Shipping,Yes,Yes,32,Bank Transfer,Quarterly
+52,Female,Hoodie,Clothing,20,Rhode Island,XL,Red,Winter,4.8,No,Store Pickup,No,No,37,PayPal,Weekly
+42,Female,Belt,Accessories,65,Idaho,M,Teal,Fall,3.5,No,Standard,No,No,16,PayPal,Annually
+60,Male,Pants,Clothing,38,Michigan,M,Yellow,Summer,4.8,No,Free Shipping,Yes,Yes,35,PayPal,Every 3 Months
+53,Female,Scarf,Accessories,96,Tennessee,XL,Magenta,Fall,3.2,No,Standard,No,No,47,Debit Card,Annually
+18,Male,Socks,Clothing,93,Vermont,S,Maroon,Winter,4.8,No,2-Day Shipping,No,No,9,Bank Transfer,Every 3 Months
+63,Male,Sandals,Footwear,72,Michigan,L,Purple,Summer,5.0,No,Standard,Yes,Yes,39,Debit Card,Quarterly
+42,Male,Dress,Clothing,36,Alabama,M,Red,Summer,4.3,No,Next Day Air,No,No,23,Credit Card,Weekly
+47,Male,Sweater,Clothing,45,Montana,XL,Turquoise,Winter,3.5,Yes,Free Shipping,Yes,Yes,29,Bank Transfer,Fortnightly
+19,Male,T-shirt,Clothing,45,Nebraska,XL,Turquoise,Winter,4.6,No,2-Day Shipping,No,No,19,PayPal,Bi-Weekly
+40,Male,Hat,Accessories,77,South Dakota,M,Peach,Spring,4.0,No,2-Day Shipping,No,No,22,Debit Card,Monthly
+59,Female,Handbag,Accessories,40,Maine,XL,Pink,Winter,4.2,No,Express,No,No,16,PayPal,Monthly
+42,Male,Dress,Clothing,77,Vermont,M,Pink,Spring,3.7,Yes,Express,Yes,Yes,50,Credit Card,Every 3 Months
+47,Male,Boots,Footwear,35,Idaho,M,Teal,Summer,4.9,No,2-Day Shipping,No,No,14,Bank Transfer,Fortnightly
+56,Male,T-shirt,Clothing,45,West Virginia,L,Maroon,Spring,3.2,Yes,Free Shipping,Yes,Yes,24,Bank Transfer,Weekly
+46,Male,Sneakers,Footwear,31,Delaware,XL,Indigo,Fall,4.0,Yes,Store Pickup,Yes,Yes,30,Cash,Monthly
+24,Male,Skirt,Clothing,38,Maryland,L,Gold,Fall,4.7,No,Standard,Yes,Yes,6,Credit Card,Every 3 Months
+48,Female,Shoes,Footwear,38,Maine,XL,Olive,Spring,4.5,No,Store Pickup,No,No,7,Bank Transfer,Fortnightly
+25,Male,Jacket,Outerwear,65,Maine,M,Magenta,Fall,4.4,Yes,Free Shipping,Yes,Yes,10,Venmo,Every 3 Months
+22,Male,Coat,Outerwear,58,Mississippi,XL,Indigo,Winter,2.7,No,Express,No,No,30,Credit Card,Weekly
+68,Female,Shoes,Footwear,85,Indiana,L,Yellow,Spring,4.7,No,Free Shipping,No,No,48,Venmo,Fortnightly
+48,Male,Shirt,Clothing,31,Illinois,L,Teal,Spring,2.6,Yes,Free Shipping,Yes,Yes,10,Debit Card,Every 3 Months
+59,Male,Skirt,Clothing,81,Montana,L,Indigo,Fall,3.6,No,Free Shipping,No,No,25,Cash,Every 3 Months
+58,Male,Shirt,Clothing,57,Pennsylvania,S,Gray,Spring,4.7,No,Express,Yes,Yes,47,Venmo,Fortnightly
+44,Male,Jewelry,Accessories,76,South Dakota,M,Indigo,Winter,2.5,No,Express,Yes,Yes,42,Cash,Bi-Weekly
+18,Male,Shirt,Clothing,60,Alaska,M,White,Spring,2.9,Yes,Free Shipping,Yes,Yes,31,Debit Card,Weekly
+32,Male,Sweater,Clothing,30,Montana,S,Maroon,Fall,3.2,Yes,Next Day Air,Yes,Yes,16,Venmo,Annually
+28,Female,Handbag,Accessories,91,Florida,M,Turquoise,Summer,4.0,No,2-Day Shipping,No,No,3,Venmo,Bi-Weekly
+66,Female,Shoes,Footwear,85,Wisconsin,L,Blue,Winter,3.9,No,Standard,No,No,28,Bank Transfer,Quarterly
+64,Male,Boots,Footwear,31,Illinois,M,Violet,Fall,4.9,Yes,Store Pickup,Yes,Yes,9,Bank Transfer,Fortnightly
+38,Male,Pants,Clothing,41,Delaware,M,Teal,Winter,3.5,Yes,Next Day Air,Yes,Yes,2,Bank Transfer,Weekly
+67,Female,Socks,Clothing,24,Missouri,L,Black,Spring,4.8,No,Free Shipping,No,No,32,Credit Card,Monthly
+25,Male,Sunglasses,Accessories,60,Vermont,XL,Olive,Winter,2.7,No,Next Day Air,No,No,20,Bank Transfer,Every 3 Months
+22,Male,Jeans,Clothing,53,California,XL,Gray,Summer,4.6,No,Store Pickup,Yes,Yes,45,PayPal,Every 3 Months
+39,Male,Jewelry,Accessories,74,New Hampshire,M,Gold,Fall,3.6,No,Express,Yes,Yes,26,Cash,Quarterly
+30,Male,Sandals,Footwear,83,Oklahoma,M,Gray,Spring,4.3,No,Store Pickup,No,No,1,Cash,Annually
+37,Male,Sweater,Clothing,59,Arizona,M,Silver,Fall,4.4,No,Express,Yes,Yes,49,Credit Card,Fortnightly
+32,Male,Shorts,Clothing,38,Connecticut,L,Silver,Winter,2.8,Yes,Express,Yes,Yes,30,Venmo,Every 3 Months
+30,Male,Shorts,Clothing,37,Kansas,M,Maroon,Spring,4.7,No,Store Pickup,No,No,2,Cash,Monthly
+64,Male,Coat,Outerwear,57,Idaho,M,Violet,Summer,3.7,No,Store Pickup,No,No,48,Credit Card,Every 3 Months
+33,Female,Belt,Accessories,92,Michigan,L,Blue,Winter,3.3,No,Free Shipping,No,No,11,PayPal,Bi-Weekly
+32,Female,Belt,Accessories,95,Alaska,M,Blue,Spring,2.5,No,2-Day Shipping,No,No,24,Bank Transfer,Bi-Weekly
+64,Female,Sunglasses,Accessories,43,Minnesota,M,Charcoal,Fall,3.3,No,Store Pickup,No,No,21,Venmo,Annually
+68,Male,Shoes,Footwear,89,Alaska,L,Black,Spring,3.2,No,Next Day Air,Yes,Yes,50,Venmo,Annually
+65,Female,Hoodie,Clothing,84,New Mexico,M,Charcoal,Spring,3.4,No,2-Day Shipping,No,No,5,Bank Transfer,Fortnightly
+32,Male,Handbag,Accessories,51,Hawaii,L,Yellow,Fall,3.7,No,Store Pickup,No,No,46,PayPal,Monthly
