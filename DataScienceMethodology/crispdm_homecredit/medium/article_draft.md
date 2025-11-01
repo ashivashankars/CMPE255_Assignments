@@ -1,3 +1,0 @@
-# Draft: From Business Cost to Deployed Scorer (CRISP-DM)
-
-Outline...

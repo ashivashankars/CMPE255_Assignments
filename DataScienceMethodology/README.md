@@ -1,37 +1,26 @@
-# Data Science Methodologies — CRISP-DM · SEMMA · KDD
 
-This repository contains **three complete projects**, one per methodology, each with:
-- A phase-by-phase notebook flow
-- Reproducible `src/` modules
-- Reports & model cards
-- A minimal deployment demo (FastAPI + Streamlit)
-- A **"World‑Renowned Critic"** review loop prompt (Claude/GPT‑5)
+# Principled Data Science — Three Methodologies
 
-> Generated scaffold on 2025-11-01. Fill in the notebooks, run the critic at the end of every phase, then publish the accompanying Medium article and YouTube walkthrough.
+This repository scaffolds **three separate end‑to‑end projects**:
+- CRISP-DM — Social Media & Mental Health
+- SEMMA — Shopping Behavior
+- KDD — Global Car Sales
 
-## Projects
-- `crispdm_homecredit` — Credit risk (Home Credit Default Risk)
-- `semma_bankmarketing` — Campaign response (Bank Marketing)
-- `kdd_fraud` — Credit card fraud (highly imbalanced)
+Each subproject includes:
+- A Colab-ready notebook that covers **all stages**.
+- **Critique prompts** per stage (persona = world‑renowned authority) to iterate using GPT‑5/Claude.
+- Draft **Medium article** and **YouTube script** templates.
 
-## Quick start
+## Quick Start (Colab)
+1. Open a subproject notebook in Colab.
+2. Run the first cell to set up Kaggle and download data.
+3. Complete each stage (use the prompts in `/prompts` to get expert critiques).
+4. Export final artifacts (model, charts, Medium article) from the notebook.
 
-```bash
-conda create -n ds-methods python=3.11 -y
-conda activate ds-methods
-pip install -r env/requirements.txt
-```
+## Deliverables
+- Final notebook per methodology
+- Model artifacts and evaluation reports
+- One Medium post per project
+- A short YouTube walkthrough per project
 
-### Run local API
-```bash
-python crispdm_homecredit/src/serve.py  # FastAPI at http://127.0.0.1:8000/docs
-```
-
-### Docker
-```bash
-docker build -t ds-methods:latest -f docker/Dockerfile .
-docker run -p 8000:8000 -p 8501:8501 ds-methods:latest
-```
-
-## Tools
-- See `tools/open_interpreter.md` and `tools/metagpt_plan.md` to automate repetitive tasks.
+_Last scaffold update: 2025-11-01 17:42_

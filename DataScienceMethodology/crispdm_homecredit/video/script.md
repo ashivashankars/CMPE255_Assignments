@@ -1,3 +1,0 @@
-# Video Script (CRISP-DM)
-
-1) Problem...

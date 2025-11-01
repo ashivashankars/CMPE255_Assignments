@@ -1,3 +1,0 @@
-# Video Script (SEMMA)
-
-1) Problem...

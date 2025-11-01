@@ -1,3 +1,0 @@
-# Draft: Campaigns that Pay (SEMMA)
-
-Outline...
