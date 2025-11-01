@@ -1,0 +1,3 @@
+# Draft: Mining Needles (KDD)
+
+Outline...

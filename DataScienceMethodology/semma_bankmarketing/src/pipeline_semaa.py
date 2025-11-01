@@ -1,0 +1,1 @@
+# SEMMA pipeline scaffolding

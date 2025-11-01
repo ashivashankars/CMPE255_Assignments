@@ -1,0 +1,8 @@
+name: ds-methods
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - -r env/requirements.txt
