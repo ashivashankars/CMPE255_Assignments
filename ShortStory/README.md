@@ -55,8 +55,6 @@ This **ablation study** highlights that lightweight, interpretable approaches ca
 Presentation summarizing:
 - RippleNet + LLM embedding architecture  
 - Workflow and retraining pipeline  
-- Ablation insights and performance metrics  
-- Future improvements and ethical reflections  
 
 (*To be uploaded: `/slides/ColdStart_RippleNet_Presentation.pdf`*)
 
@@ -66,7 +64,6 @@ Presentation summarizing:
 A 10–15 minute walkthrough covering:
 - The cold-start problem and motivation  
 - Architecture breakdown with visual flow  
-- Real-world A/B test learnings and future ideas  
 
 (*To be uploaded: `/video/ColdStart_Walkthrough.mp4`*)
 
