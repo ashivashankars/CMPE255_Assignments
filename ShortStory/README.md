@@ -99,7 +99,7 @@ A 10–15 minute walkthrough covering:
 - Architecture breakdown with visual flow  
 - Real-world A/B test learnings and future ideas  
 
-(*To be uploaded: `/video/ColdStart_Walkthrough.mp4`*)
+[Video Presentation ](https://drive.google.com/file/d/14ZpHxEpGZJhUeXFRYLZanUu5aCAXkZxS/view?usp=sharing)
 
 ---
 
